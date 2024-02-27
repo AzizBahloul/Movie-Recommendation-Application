@@ -65,9 +65,7 @@
   {"Movie": "Jumanji: Next Level", "Year": 2019, "Rating": 6},
   {"Movie": "Men in Black International", "Year": 2019, "Rating": 8},
   {"Movie": "Shazam!", "Year": 2019, "Rating": 3},
-  {"Movie": "Spider-Man Far From Home", "Year": 2019
-
-, "Rating": 7.5},
+  {"Movie": "Spider-Man Far From Home", "Year": 2019, "Rating": 7.5},
   {"Movie": "The Avengers Endgame", "Year": 2019, "Rating": 8},
   {"Movie": "The Prodigy", "Year": 2019, "Rating": 8},
   {"Movie": "Zombieland: Double Tap", "Year": 2019, "Rating": 7},
