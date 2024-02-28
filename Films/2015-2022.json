@@ -1,0 +1,1935 @@
+[
+    {
+      "name": "The Martian",
+      "year": 2015,
+      "rating": "9/10",
+      "genre": ["Adventure", "Drama", "Sci-Fi"]
+    },
+    {
+      "name": "Tomorrowland",
+      "year": 2015,
+      "rating": "7/10",
+      "genre": ["Action", "Adventure", "Family"]
+    },
+    {
+      "name": "Arrival",
+      "year": 2016,
+      "rating": "8/10",
+      "genre": ["Drama", "Mystery", "Sci-Fi"]
+    },
+    {
+      "name": "Passengers",
+      "year": 2016,
+      "rating": "9/10",
+      "genre": ["Drama", "Romance", "Sci-Fi"]
+    },
+    {
+      "name": "10 Cloverfield Lane",
+      "year": 2016,
+      "rating": "8/10",
+      "genre": ["Drama", "Horror", "Mystery"]
+    },
+    {
+      "name": "A Cure for Wellness",
+      "year": 2017,
+      "rating": "7.5/10",
+      "genre": ["Drama", "Fantasy", "Horror"]
+    },
+    {
+      "name": "Central Intelligence",
+      "year": 2017,
+      "rating": "8/10",
+      "genre": ["Action", "Comedy", "Crime"]
+    },
+    {
+      "name": "Split",
+      "year": 2017,
+      "rating": "8.5/10",
+      "genre": ["Horror", "Mystery", "Thriller"]
+    },
+    {
+      "name": "The Death of Stalin",
+      "year": 2017,
+      "rating": "7.5/10",
+      "genre": ["Comedy", "Drama", "History"]
+    },
+    {
+      "name": "The Endless",
+      "year": 2017,
+      "rating": "7/10",
+      "genre": ["Fantasy", "Horror", "Sci-Fi"]
+    },
+    {
+      "name": "The Shape of Water",
+      "year": 2017,
+      "rating": "8/10",
+      "genre": ["Adventure", "Drama", "Fantasy"]
+    },
+    {
+      "name": "The Space Between Us",
+      "year": 2017,
+      "rating": "6/10",
+      "genre": ["Drama", "Romance", "Sci-Fi"]
+    },
+    {
+      "name": "Every Day",
+      "year": 2018,
+      "rating": "7.5/10",
+      "genre": ["Drama", "Fantasy", "Romance"]
+    },
+    {
+      "name": "Fantastic Beasts: The Crimes of Grindelwald",
+      "year": 2018,
+      "rating": "5/10",
+      "genre": ["Adventure", "Family", "Fantasy"]
+    },
+    {
+      "name": "High Life",
+      "year": 2018,
+      "rating": "3/10",
+      "genre": ["Adventure", "Drama", "Horror"]
+    },
+    {
+      "name": "How It Ends",
+      "year": 2018,
+      "rating": "7.5/10",
+      "genre": ["Action", "Adventure", "Drama"]
+    },
+    {
+      "name": "Level 16",
+      "year": 2018,
+      "rating": "6/10",
+      "genre": ["Sci-Fi", "Thriller"]
+    },
+    {
+      "name": "Mirage",
+      "year": 2018,
+      "rating": "7/10",
+      "genre": ["Drama", "Mystery", "Thriller"]
+    },
+    {
+      "name": "Glass",
+      "year": 2019,
+      "rating": "7/10",
+      "genre": ["Drama", "Sci-Fi", "Thriller"]
+    },
+    {
+      "name": "Jexi",
+      "year": 2019,
+      "rating": "7.5/10",
+      "genre": ["Comedy", "Romance", "Sci-Fi"]
+    },
+    {
+      "name": "Serenity",
+      "year": 2019,
+      "rating": "4/10",
+      "genre": ["Drama", "Mystery", "Sci-Fi"]
+    },
+    {
+      "name": "Call",
+      "year": 2020,
+      "rating": "7/10",
+      "genre": ["Horror", "Mystery", "Thriller"]
+    },
+    {
+      "name": "Synchronic",
+      "year": 2020,
+      "rating": "7/10",
+      "genre": ["Drama", "Horror", "Sci-Fi"]
+    },
+    {
+      "name": "Don't Look Up",
+      "year": 2021,
+      "rating": "7.5/10",
+      "genre": ["Comedy", "Drama", "Sci-Fi"]
+    },
+    {
+        "name": "Jurassic World",
+        "year": 2015,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Insurgent",
+        "year": 2015,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Self/less",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Action", "Mystery", "Sci-Fi"]
+      },
+      {
+        "name": "Superfast!",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "Allegiant",
+        "year": 2016,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Mystery"]
+      },
+      {
+        "name": "Assassin's Creed",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Jungle Book",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Adventure", "Drama", "Family"]
+      },
+      {
+        "name": "The Legend of Tarzan",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Alien: Covenant",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Horror", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Blade Runner 2049",
+        "year": 2017,
+        "rating": "8.5/10",
+        "genre": ["Drama", "Mystery", "Sci-Fi"]
+      },
+      {
+        "name": "Ghost in the Shell",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Kong: Skull Island",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Power Rangers",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "What Happened to Monday",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Crime"]
+      },
+      {
+        "name": "Annihilation",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Adventure", "Drama", "Horror"]
+      },
+      {
+        "name": "Alpha",
+        "year": 2018,
+        "rating": "7.5/10",
+        "genre": ["Adventure", "Drama", "Family"]
+      },
+      {
+        "name": "Freaks",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Drama", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Jurassic World: Fallen Kingdom",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Ready Player One",
+        "year": 2018,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Upgrade",
+        "year": 2018,
+        "rating": "7.5/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Alita: Battle Angel",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Ad Astra",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Adventure", "Drama", "Mystery"]
+      },
+      {
+        "name": "Gemini Man",
+        "year": 2019,
+        "rating": "5/10",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "Godzilla: King of the Monsters",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Hellboy",
+        "year": 2019,
+        "rating": "5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Pokémon Detective Pikachu",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Us",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "A Quiet Place Part II",
+        "year": 2020,
+        "rating": "5/10",
+        "genre": ["Drama", "Horror", "Sci-Fi"]
+      },
+      {
+        "name": "Dolittle",
+        "year": 2020,
+        "rating": "5/10",
+        "genre": ["Adventure", "Comedy", "Family"]
+      },
+      {
+        "name": "Tenet",
+        "year": 2020,
+        "rating": "7.5/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Sonic the Hedgehog",
+        "year": 2020,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "The Invisible Guest",
+        "year": 2020,
+        "rating": "5/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "Dune",
+        "year": 2021,
+        "rating": "3/10",
+        "genre": ["Adventure", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "Eternals",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Free Guy",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Godzilla vs. Kong",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Love and Monsters",
+        "year": 2021,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Oxygen",
+        "year": 2021,
+        "rating": "4/10",
+        "genre": ["Drama", "Fantasy", "Sci-Fi"]
+      },
+      {
+        "name": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Doctor Strange in the Multiverse of Madness",
+        "year": 2022,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Nope",
+        "year": 2022,
+        "rating": "4/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Siccin 2",
+        "year": 2015,
+        "rating": "4/10",
+        "genre": ["Horror"]
+      },
+      {
+        "name": "The Lobster",
+        "year": 2015,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "Snowden",
+        "year": 2016,
+        "rating": "6/10",
+        "genre": ["Biography", "Drama", "Thriller"]
+      },
+      {
+        "name": "The Autopsy of Jane Doe",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "It",
+        "year": 2017,
+        "rating": "5/10",
+        "genre": ["Horror"]
+      },
+      {
+        "name": "Lady Bird",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "See You Up There",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Siccin 4",
+        "year": 2017,
+        "rating": "3/10",
+        "genre": ["Horror"]
+      },
+      {
+        "name": "Hereditary",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Sorry to Bother You",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Comedy", "Fantasy", "Sci-Fi"]
+      },
+      {
+        "name": "A Hidden Life",
+        "year": 2019,
+        "rating": "5/10",
+        "genre": ["Biography", "Drama", "Romance"]
+      },
+      {
+        "name": "Aladdin",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Adventure", "Family", "Fantasy"]
+      },
+      {
+        "name": "Ghost in the Graveyard",
+        "year": 2019,
+        "rating": "4/10",
+        "genre": ["Drama", "Horror", "Mystery"]
+      },
+      {
+        "name": "Midsommar",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Drama", "Horror", "Mystery"]
+      },
+      {
+        "name": "The Platform",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Horror", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "His House",
+        "year": 2020,
+        "rating": "3/10",
+        "genre": ["Drama", "Horror", "Thriller"]
+      },
+      {
+        "name": "I'm Thinking of Ending Things",
+        "year": 2020,
+        "rating": "8/10",
+        "genre": ["Drama", "Fantasy", "Horror"]
+      },
+      {
+        "name": "The Unhealer",
+        "year": 2020,
+        "rating": "4/10",
+        "genre": ["Action", "Comedy", "Drama"]
+      },
+      {
+        "name": "Lamb",
+        "year": 2021,
+        "rating": "5/10",
+        "genre": ["Drama", "Horror", "Mystery"]
+      },
+      {
+        "name": "Titane",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Drama", "Horror", "Thriller"]
+      },
+      {
+        "name": "Legend",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "Room",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Drama", "Thriller"]
+      },
+      {
+        "name": "The Gift",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Drama", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Dirty Grandpa",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "Neighbours 2",
+        "year": 2016,
+        "rating": "6/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "Silence",
+        "year": 2016,
+        "rating": "4/10",
+        "genre": ["Drama", "History"]
+      },
+      {
+        "name": "Forgotten",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Drama", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Gerald's Game",
+        "year": 2017,
+        "rating": "5/10",
+        "genre": ["Drama", "Horror", "Thriller"]
+      },
+      {
+        "name": "Murder on the Orient Express",
+        "year": 2017,
+        "rating": "6/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "12 Feet Deep",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Thriller"]
+      },
+      {
+        "name": "The Hate U Give",
+        "year": 2018,
+        "rating": "7.5/10",
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "The House That Jack Built",
+        "year": 2018,
+        "rating": "5/10",
+        "genre": ["Crime", "Drama", "Horror"]
+      },
+      {
+        "name": "Fractured",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Mystery", "Thriller"]
+      },
+      {
+        "name": "Jojo Rabbit",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Comedy", "Drama", "War"]
+      },
+      {
+        "name": "Joker",
+        "year": 2019,
+        "rating": "5/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "name": "Knives Out",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Parasite",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama", "Thriller"]
+      },
+      {
+        "name": "The Gentlemen",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "The Irishman",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "The Lighthouse",
+        "year": 2019,
+        "rating": "6.5/10",
+        "genre": ["Drama", "Fantasy", "Horror"]
+      },
+      {
+        "name": "Capone",
+        "year": 2020,
+        "rating": "6/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "Da 5 Bloods",
+        "year": 2020,
+        "rating": "5/10",
+        "genre": ["Drama", "War"]
+      },
+      {
+        "name": "Escape from Pretoria",
+        "year": 2020,
+        "rating": "7.5/10",
+        "genre": ["Thriller"]
+      },
+      {
+        "name": "The Hater",
+        "year": 2020,
+        "rating": "7/10",
+        "genre": ["Drama", "Thriller"]
+      },
+      {
+        "name": "Cruella",
+        "year": 2021,
+        "rating": "7/10",
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "name": "I Care a Lot",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Comedy", "Crime", "Thriller"]
+      },
+      {
+        "name": "Judas and the Black Messiah",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Biography", "Drama", "History"]
+      },
+      {
+        "name": "Glass Onion",
+        "year": 2022,
+        "rating": "5/10",
+        "genre": ["Drama", "Mystery", "Thriller"]
+      },
+      {
+        "name": "On the Count of Three",
+        "year": 2022,
+        "rating": "7/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Speak No Evil",
+        "year": 2022,
+        "rating": "4/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "The Unbearable Weight of Massive Talent",
+        "year": 2022,
+        "rating": "6/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "X",
+        "year": 2022,
+        "rating": "7/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "A Man Called Ove",
+        "year": 2015,
+        "rating": "3/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "Daddy's Home",
+        "year": 2015,
+        "rating": "7/10",
+        "genre": ["Comedy", "Family"]
+      },
+      {
+        "name": "Dope",
+        "year": 2015,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Fifty Shades of Grey",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance", "Thriller"]
+      },
+      {
+        "name": "Knock Knock",
+        "year": 2015,
+        "rating": "2/10",
+        "genre": ["Drama", "Horror", "Thriller"]
+      },
+      {
+        "name": "Me and Earl and the Dying Girl",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Spotlight",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "The Big Short",
+        "year": 2015,
+        "rating": "5/10",
+        "genre": ["Biography", "Comedy", "Drama"]
+      },
+      {
+        "name": "The Diary of a Teenage Girl",
+        "year": 2015,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "The Wedding Ringer",
+        "year": 2015,
+        "rating": "8.5/10",
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "name": "Captain Fantastic",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Demain tout commence",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Hail, Caesar!",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama", "Music"]
+      },
+      {
+        "name": "La La Land",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama", "Music"]
+      },
+      {
+        "name": "Lion",
+        "year": 2016,
+        "rating": "9/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "Little Sister",
+        "year": 2016,
+        "rating": "6/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Manchester by the Sea",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Me Before You",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "Mr. Church",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Raw",
+        "year": 2016,
+        "rating": "8.5/10",
+        "genre": ["Drama", "Horror"]
+      },
+      {
+        "name": "Siccin",
+        "year": 2018,
+        "rating": "3/10",
+        "genre": ["Horror"]
+      },
+      {
+        "name": "Sing Street",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Music"]
+      },
+      {
+        "name": "The Choice",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "The Handmaiden",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance", "Thriller"]
+      },
+      {
+        "name": "The Invisible Guest",
+        "year": 2016,
+        "rating": "4/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "Why Him?",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "name": "20th Century Women",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Bad Genius",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Darkest Hour",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Biography", "Drama", "History"]
+      },
+      {
+        "name": "Everything, Everything",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "Fifty Shades Darker",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "I, Tonya",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Biography", "Comedy", "Drama"]
+      },
+      {
+        "name": "Ingrid Goes West",
+        "year": 2017,
+        "rating": "5/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Stronger",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "The Disaster Artist",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Biography", "Comedy", "Drama"]
+      },
+      {
+        "name": "The Florida Project",
+        "year": 2017,
+        "rating": "9/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "The Killing of a Sacred Deer",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Drama", "Horror", "Mystery"]
+      },
+      {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Wonder",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Drama", "Family"]
+      },
+      {
+        "name": "A Twelve-Year Night",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Biography", "Drama", "History"]
+      },
+      {
+        "name": "BlackKklansman",
+        "year": 2018,
+        "rating": "5/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "Blindspotting",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Bohemian Rhapsody",
+        "year": 2018,
+        "rating": "8.5/10",
+        "genre": ["Biography", "Drama", "Music"]
+      },
+      {
+        "name": "Climax",
+        "year": 2018,
+        "rating": "5/10",
+        "genre": ["Drama", "Horror", "Music"]
+      },
+      {
+        "name": "Crazy Rich Asians",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "Eighth Grade",
+        "year": 2018,
+        "rating": "6/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Free Solo",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Documentary", "Sport"]
+      },
+      {
+        "name": "Green Book",
+        "year": 2018,
+        "rating": "9/10",
+        "genre": ["Biography", "Comedy", "Drama"]
+      },
+      {
+        "name": "Love, Simon",
+        "year": 2018,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "Mamma Mia! Here We Go Again",
+        "year": 2018,
+        "rating": "2/10",
+        "genre": ["Comedy", "Musical", "Romance"]
+      },
+      {
+        "name": "Searching",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Drama", "Mystery", "Thriller"]
+      },
+      {
+        "name": "The Ballad of Buster Scruggs",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Musical"]
+      },
+      {
+        "name": "The Favourite",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Biography", "Comedy", "Drama"]
+      },
+      {
+        "name": "The Mustang",
+        "year": 2018,
+        "rating": "6/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "303",
+        "year": 2018,
+        "rating": "6.5/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "A Marriage Story",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "A Son",
+        "year": 2019,
+        "rating": "4/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "Big Time Adolescence",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Booksmart",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "Five Feet Apart",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "Honey Boy",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Hustlers",
+        "year": 2019,
+        "rating": "6.5/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Little Women",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "Once Upon a Time in Hollywood",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Pain and Glory",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Rocketman",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Biography", "Drama", "Music"]
+      },
+      {
+        "name": "Sound of Metal",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Drama", "Music"]
+      },
+      {
+        "name": "The Farewell",
+        "year": 2019,
+        "rating": "4/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "The Golden Glove",
+        "year": 2019,
+        "rating": "4/10",
+        "genre": ["Crime", "Drama", "Horror"]
+      },
+      {
+        "name": "The Last Black Man in San Francisco",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "The Peanut Butter Falcon",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Adventure", "Comedy", "Drama"]
+      },
+      {
+        "name": "Waves",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "Another Round",
+        "year": 2020,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Clouds",
+        "year": 2020,
+        "rating": "8/10",
+        "genre": ["Biography", "Drama", "Music"]
+      },
+      {
+        "name": "Nomadland",
+        "year": 2020,
+        "rating": "5/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "The Father",
+        "year": 2020,
+        "rating": "8.5/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "The King of Staten Island",
+        "year": 2020,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "365 Days",
+        "year": 2020,
+        "rating": "2/10",
+        "genre": ["Drama", "Romance"]
+      },
+      {
+        "name": "Babylon",
+        "year": 2022,
+        "rating": "7/10",
+        "genre": ["Crime", "Drama", "Music"]
+      },
+      {
+        "name": "Coda",
+        "year": 2021,
+        "rating": "8/10",
+        "genre": ["Drama", "Music"]
+      },
+      {
+        "name": "Licorice Pizza",
+        "year": 2021,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "Pig",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "name": "The Voyeurs",
+        "year": 2021,
+        "rating": "4/10",
+        "genre": ["Drama", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Cha Cha Real Smooth",
+        "year": 2022,
+        "rating": "5/10",
+        "genre": ["Comedy", "Drama"]
+      },
+      {
+        "name": "Pearl",
+        "year": 2022,
+        "rating": "7.5/10",
+        "genre": ["Drama", "Music"]
+      },
+      {
+        "name": "The Banshees of Inisherin",
+        "year": 2022,
+        "rating": "8/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "The Menu",
+        "year": 2022,
+        "rating": "8.5/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "The Whale",
+        "year": 2022,
+        "rating": "6/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Triangle of Sadness",
+        "year": 2022,
+        "rating": "5/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Hitman: Agent 47",
+        "year": 2015,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Mad Max: Fury Road",
+        "year": 2015,
+        "rating": "9/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Avengers: Age of Ultron",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Ant-Man",
+        "year": 2015,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "The Hunger Games: Mockingjay - Part 2",
+        "year": 2015,
+        "rating": "5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Maze Runner: The Scorch Trials",
+        "year": 2015,
+        "rating": "6/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Turbo Kid",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Captain America: Civil War",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Deadpool",
+        "year": 2016,
+        "rating": "9/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Doctor Strange",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Suicide Squad",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Swiss Army Man",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama", "Fantasy"]
+      },
+      {
+        "name": "The Great Wall",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "The Purge: Election Year",
+        "year": 2016,
+        "rating": "6/10",
+        "genre": ["Action", "Horror", "Sci-Fi"]
+      },
+      {
+        "name": "X-Men: Apocalypse",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Blade Runner 2049",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Drama", "Mystery"]
+      },
+      {
+        "name": "Get Out",
+        "year": 2017,
+        "rating": "8.5/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Guardians of the Galaxy Vol. 2",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Justice League",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Kong: Skull Island",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Logan",
+        "year": 2017,
+        "rating": "10/10",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Spider-Man: Homecoming",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Thor: Ragnarok",
+        "year": 2017,
+        "rating": "10/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "War for the Planet of the Apes",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Wonder Woman",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Aquaman",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Bird Box",
+        "year": 2018,
+        "rating": "7.5/10",
+        "genre": ["Drama", "Horror", "Sci-Fi"]
+      },
+      {
+        "name": "Black Panther",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Deadpool 2",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Maze Runner: The Death Cure",
+        "year": 2018,
+        "rating": "2/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Rampage",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Avengers: Infinity War",
+        "year": 2018,
+        "rating": "10/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Ant-Man and the Wasp",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "The First Purge",
+        "year": 2018,
+        "rating": "6/10",
+        "genre": ["Action", "Horror", "Sci-Fi"]
+      },
+      {
+        "name": "Venom",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Captain Marvel",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Countdown",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "Dark Phoenix",
+        "year": 2019,
+        "rating": "2/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "It Chapter Two",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Drama", "Fantasy", "Horror"]
+      },
+      {
+        "name": "Jumanji: The Next Level",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Men in Black: International",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Shazam!",
+        "year": 2019,
+        "rating": "3/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Spider-Man: Far from Home",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Avengers: Endgame",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "The Prodigy",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Zombieland: Double Tap",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy", "Horror"]
+      },
+      {
+        "name": "Birds of Prey",
+        "year": 2020,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Mulan",
+        "year": 2020,
+        "rating": "3/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Project Power",
+        "year": 2020,
+        "rating": "7/10",
+        "genre": ["Action", "Crime", "Sci-Fi"]
+      },
+      {
+        "name": "Wonder Woman 1984",
+        "year": 2020,
+        "rating": "4/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Zack Snyder's Justice League",
+        "year": 2021,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Mortal Kombat",
+        "year": 2021,
+        "rating": "5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Spider-Man: No Way Home",
+        "year": 2021,
+        "rating": "5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "The Suicide Squad",
+        "year": 2021,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "The Old Guard",
+        "year": 2021,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Venom: Let There Be Carnage",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Black Adam",
+        "year": 2022,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Everything Everywhere All at Once",
+        "year": 2022,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Prey",
+        "year": 2022,
+        "rating": "4/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "The Batman",
+        "year": 2022,
+        "rating": "6/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Thor: Love and Thunder",
+        "year": 2022,
+        "rating": "5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Fast and Furious 5",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "name": "Focus",
+        "year": 2015,
+        "rating": ["9/10", "7/10"],
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "Max",
+        "year": 2015,
+        "rating": "7.5/10",
+        "genre": ["Adventure", "Family"]
+      },
+      {
+        "name": "Sicario",
+        "year": 2015,
+        "rating": "6/10",
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "Spy",
+        "year": 2015,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "The Hateful Eight",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "The Man from U.N.C.L.E.",
+        "year": 2015,
+        "rating": "4/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "The Ridiculous 6",
+        "year": 2015,
+        "rating": "5/10",
+        "genre": ["Comedy", "Western"]
+      },
+      {
+        "name": "The Revenant",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "Boyka Undisputed",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "Don't Breathe",
+        "year": 2016,
+        "rating": ["8/10", "8/10"],
+        "genre": ["Crime", "Horror"]
+      },
+      {
+        "name": "Hacksaw Ridge",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "Hush",
+        "year": 2020,
+        "rating": "5/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "Inferno",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "Now You See Me 2",
+        "year": 2016,
+        "rating": "6/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "The Nice Guys",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "Dunkirk",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Action", "Drama"]
+      },
+      {
+        "name": "Fate and Furious",
+        "year": 2017,
+        "rating": ["8/10", "8/10"],
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "Good Time",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "John Wick: Chapter Two",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "Logan Lucky",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "name": "Kingsman 2",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "The Hitman's Bodyguard",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "The Mummy",
+        "year": 2017,
+        "rating": "5/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "You Will Never Really Here",
+        "year": 2017,
+        "rating": "6/10",
+        "genre": ["Drama", "Mystery"]
+      },
+      {
+        "name": "Creed 2",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Drama", "Sport"]
+      },
+      {
+        "name": "Hotel Mumbai",
+        "year": 2018,
+        "rating": "6/10",
+        "genre": ["Action", "Drama"]
+      },
+      {
+        "name": "Mission Impossible",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "Sicario: Day of the Soldado",
+        "year": 2018,
+        "rating": "5/10",
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "Taxi 5",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "Tomb Raider",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "Cold Pursuit",
+        "year": 2019,
+        "rating": "5/10",
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "El Camino",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama"]
+      },
+      {
+        "name": "Escape Room",
+        "year": 2019,
+        "rating": ["8.5/10", "9/10"],
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "Fast and Furious Present: Hobbs & Shaw",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "John Wick: Chapter 3",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "Murder Mystery",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "Stuber",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "The 16th Episode",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "Uncut Gems",
+        "year": 2019,
+        "rating": ["8.5/10", "8/10"],
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "1917",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": ["Drama", "War"]
+      },
+      {
+        "name": "6 Underground",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "name": "Bad Boys for Life",
+        "year": 2020,
+        "rating": "6.5/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "Extraction",
+        "year": 2020,
+        "rating": "7/10",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "name": "Black Widow",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "Nobody",
+        "year": 2021,
+        "rating": "6.5/10",
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "name": "Red Notice",
+        "year": 2021,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy"]
+      },
+      {
+        "name": "Wrath of Man",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "name": "Athena",
+        "year": 2022,
+        "rating": "4/10",
+        "genre": ["Action", "Sci-Fi"]
+      },
+      {
+        "name": "Bullet Train",
+        "year": 2022,
+        "rating": "7/10",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "name": "Top Gun: Maverick",
+        "year": 2022,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama"]
+      },
+      {
+        "name": "Extraction 2",
+        "year": 2023,
+        "rating": "6/10",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "name": "Fast X",
+        "year": 2023,
+        "rating": "3/10",
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "name": "Oppenheimer",
+        "year": 2023,
+        "rating": "7/10",
+        "genre": ["Biography", "Drama"]
+      }
+  ]
+  
