@@ -1,0 +1,2315 @@
+[
+    {
+      "name": "Harry Potter and the Philosopher's Stone",
+      "year": 2001,
+      "rating": "8/10",
+      "genre": ["Fantasy", "Adventure"]
+    },
+    {
+      "name": "K-PAX",
+      "year": 2001,
+      "rating": "8/10",
+      "genre": ["Drama", "Science Fiction"]
+    },
+    {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "rating": "8/10",
+      "genre": ["Fantasy", "Adventure"]
+    },
+    {
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "rating": "9/10",
+      "genre": ["Fantasy", "Adventure"]
+    },
+    {
+      "name": "The Butterfly Effect",
+      "year": 2004,
+      "rating": "8/10",
+      "genre": ["Drama", "Sci-Fi"]
+    },
+    {
+      "name": "Bridge to Terabithia",
+      "year": 2007,
+      "rating": "6/10",
+      "genre": ["Drama", "Fantasy"]
+    },
+    {
+      "name": "Moon",
+      "year": 2009,
+      "rating": "4/10",
+      "genre": ["Drama", "Science Fiction"]
+    },
+    {
+      "name": "Mr. Nobody",
+      "year": 2009,
+      "rating": "6/10",
+      "genre": ["Drama", "Romance", "Sci-Fi"]
+    },
+    {
+      "name": "Gulliver's Travels",
+      "year": 2010,
+      "rating": "7/10",
+      "genre": ["Adventure", "Comedy", "Fantasy"]
+    },
+    {
+      "name": "Inception",
+      "year": 2010,
+      "rating": "8/10",
+      "genre": ["Action", "Adventure", "Sci-Fi"]
+    },
+    {
+      "name": "Nanny McPhee and the Big Bang",
+      "year": 2010,
+      "rating": "5/10",
+      "genre": ["Comedy", "Family", "Fantasy"]
+    },
+    {
+      "name": "Tooth Fairy",
+      "year": 2010,
+      "rating": "3/10",
+      "genre": ["Comedy", "Family", "Fantasy"]
+    },
+    {
+      "name": "Contagion",
+      "year": 2011,
+      "rating": "6/10",
+      "genre": ["Drama", "Sci-Fi", "Thriller"]
+    },
+    {
+      "name": "Source Code",
+      "year": 2011,
+      "rating": "8/10",
+      "genre": ["Action", "Sci-Fi", "Thriller"]
+    },
+    {
+      "name": "The Skin I Live In",
+      "year": 2011,
+      "rating": "6/10",
+      "genre": ["Drama", "Thriller"]
+    },
+    {
+      "name": "Life of Pi",
+      "year": 2012,
+      "rating": "7/10",
+      "genre": ["Adventure", "Drama", "Fantasy"]
+    },
+    {
+      "name": "Upside Down",
+      "year": 2012,
+      "rating": "6/10",
+      "genre": ["Drama", "Fantasy", "Romance"]
+    },
+    {
+      "name": "Horns",
+      "year": 2013,
+      "rating": "5/10",
+      "genre": ["Drama", "Fantasy", "Horror"]
+    },
+    {
+      "name": "The World's End",
+      "year": 2013,
+      "rating": "7.5/10",
+      "genre": ["Action", "Comedy", "Sci-Fi"]
+    },
+    {
+      "name": "I Origins",
+      "year": 2014,
+      "rating": "8/10",
+      "genre": ["Drama", "Romance", "Sci-Fi"]
+    },
+    {
+      "name": "Interstellar",
+      "year": 2014,
+      "rating": "9/10",
+      "genre": ["Adventure", "Drama", "Sci-Fi"]
+    },
+    {
+      "name": "Noah",
+      "year": 2014,
+      "rating": "5/10",
+      "genre": ["Action", "Adventure", "Drama"]
+    },
+    {
+      "name": "Predestination",
+      "year": 2014,
+      "rating": "9/10",
+      "genre": ["Drama", "Mystery", "Sci-Fi"]
+    },
+    {
+        "name": "Zoolander",
+        "year": 2001,
+        "rating": "6/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "28 Days Later",
+        "year": 2002,
+        "rating": "7/10",
+        "genre": ["Drama", "Horror", "Sci-Fi"]
+      },
+      {
+        "name": "The Core",
+        "year": 2003,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Harry Potter and the Goblet of Fire",
+        "year": 2005,
+        "rating": "8/10",
+        "genre": ["Adventure", "Family", "Fantasy"]
+      },
+      {
+        "name": "The Jacket",
+        "year": 2005,
+        "rating": "5/10",
+        "genre": ["Drama", "Fantasy", "Mystery"]
+      },
+      {
+        "name": "Eragon",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Family"]
+      },
+      {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "year": 2007,
+        "rating": "8/10",
+        "genre": ["Adventure", "Family", "Fantasy"]
+      },
+      {
+        "name": "Sunshine",
+        "year": 2007,
+        "rating": "7.5/10",
+        "genre": ["Adventure", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "The Mist",
+        "year": 2007,
+        "rating": "7/10",
+        "genre": ["Horror", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "28 Weeks Later",
+        "year": 2007,
+        "rating": "6/10",
+        "genre": ["Horror", "Sci-Fi"]
+      },
+      {
+        "name": "Twilight",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": ["Drama", "Fantasy", "Romance"]
+      },
+      {
+        "name": "District 9",
+        "year": 2009,
+        "rating": "7.5/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Adventure", "Family", "Fantasy"]
+      },
+      {
+        "name": "Pandorum",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Action", "Horror", "Mystery"]
+      },
+      {
+        "name": "Push",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Twilight: New Moon",
+        "year": 2009,
+        "rating": "5/10",
+        "genre": ["Drama", "Fantasy", "Romance"]
+      },
+      {
+        "name": "2012",
+        "year": 2009,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 1",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Adventure", "Family", "Fantasy"]
+      },
+      {
+        "name": "Tron: Legacy",
+        "year": 2010,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Twilight: Eclipse",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Adventure", "Drama", "Fantasy"]
+      },
+      {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Adventure", "Drama", "Fantasy"]
+      },
+      {
+        "name": "In Time",
+        "year": 2011,
+        "rating": "8.5/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Real Steel",
+        "year": 2011,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "Twilight: Breaking Dawn - Part 1",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": ["Adventure", "Drama", "Fantasy"]
+      },
+      {
+        "name": "Cloud Atlas",
+        "year": 2012,
+        "rating": "3/10",
+        "genre": ["Drama", "Sci-Fi"]
+      },
+      {
+        "name": "Prometheus",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Adventure", "Mystery", "Sci-Fi"]
+      },
+      {
+        "name": "Twilight: Breaking Dawn - Part 2",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Adventure", "Drama", "Fantasy"]
+      },
+      {
+        "name": "Gravity",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Drama", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Jack the Giant Slayer",
+        "year": 2013,
+        "rating": "6/10",
+        "genre": ["Adventure", "Fantasy"]
+      },
+      {
+        "name": "Oblivion",
+        "year": 2013,
+        "rating": "8.5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Star Trek Into Darkness",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "This Is the End",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Comedy", "Fantasy"]
+      },
+      {
+        "name": "Divergent",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Mystery"]
+      },
+      {
+        "name": "Edge of Tomorrow",
+        "year": 2014,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Lucy",
+        "year": 2014,
+        "rating": "8.5/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "RoboCop",
+        "year": 2014,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Sci-Fi"]
+      },
+      {
+        "name": "The Maze Runner",
+        "year": 2014,
+        "rating": "9.5/10",
+        "genre": ["Action", "Mystery", "Sci-Fi"]
+      },
+      {
+        "name": "Vanilla Sky",
+        "year": 2001,
+        "rating": "7/10",
+        "genre": ["Fantasy", "Mystery", "Romance"]
+      },
+      {
+        "name": "Donnie Darko",
+        "year": 2001,
+        "rating": "8/10",
+        "genre": ["Drama", "Mystery", "Sci-Fi"]
+      },
+      {
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance", "Sci-Fi"]
+      },
+      {
+        "name": "Click",
+        "year": 2006,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Fantasy"]
+      },
+      {
+        "name": "Night at the Museum",
+        "year": 2006,
+        "rating": "7/10",
+        "genre": ["Adventure", "Comedy", "Family"]
+      },
+      {
+        "name": "Pan's Labyrinth",
+        "year": 2006,
+        "rating": "5/10",
+        "genre": ["Drama", "Fantasy", "War"]
+      },
+      {
+        "name": "The Fountain",
+        "year": 2006,
+        "rating": "5/10",
+        "genre": ["Drama", "Sci-Fi"]
+      },
+      {
+        "name": "The Illusionist",
+        "year": 2006,
+        "rating": "7/10",
+        "genre": ["Drama", "Mystery", "Romance"]
+      },
+      {
+        "name": "The Curious Case of Benjamin Button",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Drama", "Fantasy", "Romance"]
+      },
+      {
+        "name": "Awake",
+        "year": 2007,
+        "rating": "4/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "Night at the Museum: Battle of the Smithsonian",
+        "year": 2009,
+        "rating": "7/10",
+        "genre": ["Adventure", "Comedy", "Family"]
+      },
+      {
+        "name": "The Road",
+        "year": 2009,
+        "rating": "9/10",
+        "genre": ["Adventure", "Drama"]
+      },
+      {
+        "name": "Zombieland",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Adventure", "Comedy", "Horror"]
+      },
+      {
+        "name": "17 Again",
+        "year": 2009,
+        "rating": "2/10",
+        "genre": ["Comedy", "Drama", "Fantasy"]
+      },
+      {
+        "name": "Shutter Island",
+        "year": 2010,
+        "rating": "9/10",
+        "genre": ["Mystery", "Thriller"]
+      },
+      {
+        "name": "The Book of Eli",
+        "year": 2010,
+        "rating": "9/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Super 8",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": ["Mystery", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "The Tree of Life",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": ["Drama", "Fantasy"]
+      },
+      {
+        "name": "Zookeeper",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": ["Comedy", "Family", "Romance"]
+      },
+      {
+        "name": "Sinister",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Her",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance", "Sci-Fi"]
+      },
+      {
+        "name": "Only Lovers Left Alive",
+        "year": 2013,
+        "rating": "9/10",
+        "genre": ["Drama", "Fantasy", "Horror"]
+      },
+      {
+        "name": "Snowpiercer",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "Warm Bodies",
+        "year": 2013,
+        "rating": "6.5/10",
+        "genre": ["Comedy", "Horror", "Romance"]
+      },
+      {
+        "name": "Night at the Museum: Secret of the Tomb",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": ["Adventure", "Comedy", "Family"]
+      },
+      {
+        "name": "Tusk",
+        "year": 2014,
+        "rating": "5/10",
+        "genre": ["Comedy", "Drama", "Horror"]
+      },
+
+      {
+        "name": "Memento",
+        "year": 2000,
+        "rating": "9/10",
+        "genre": ["Mystery", "Thriller"]
+      },
+      {
+        "name": "Confessions of a Dangerous Mind",
+        "year": 2002,
+        "rating": "7.5/10",
+        "genre": ["Biography", "Comedy", "Crime"]
+      },
+      {
+        "name": "Death to Smoochy",
+        "year": 2002,
+        "rating": "2/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Irreversible",
+        "year": 2002,
+        "rating": "6/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "John Q",
+        "year": 2002,
+        "rating": "6/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "name": "Punch-Drunk Love",
+        "year": 2002,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "The Pianist",
+        "year": 2002,
+        "rating": "9/10",
+        "genre": ["Biography", "Drama", "Music"]
+      },
+      {
+        "name": "Identity",
+        "year": 2003,
+        "rating": "6/10",
+        "genre": ["Mystery", "Thriller"]
+      },
+      {
+        "name": "Monster",
+        "year": 2003,
+        "rating": "6/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "21 Grams",
+        "year": 2003,
+        "rating": "2/10",
+        "genre": ["Drama", "Thriller"]
+      },
+      {
+        "name": "Million Dollar Baby",
+        "year": 2004,
+        "rating": "8.5/10",
+        "genre": ["Drama", "Sport"]
+      },
+      {
+        "name": "The Aviator",
+        "year": 2004,
+        "rating": "7.5/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "The Machinist",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Drama", "Thriller"]
+      },
+      {
+        "name": "Kiss Kiss Bang Bang",
+        "year": 2005,
+        "rating": "6/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "Sympathy for Lady Vengeance",
+        "year": 2005,
+        "rating": "2/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "name": "The Exorcism of Emily Rose",
+        "year": 2005,
+        "rating": "6/10",
+        "genre": ["Drama", "Horror", "Thriller"]
+      },
+      {
+        "name": "Babel",
+        "year": 2006,
+        "rating": "5/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Blood Diamond",
+        "year": 2006,
+        "rating": "8.5/10",
+        "genre": ["Adventure", "Drama", "Thriller"]
+      },
+      {
+        "name": "The Naked Mile",
+        "year": 2006,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "Eastern Promises",
+        "year": 2007,
+        "rating": "7/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "There Will Be Blood",
+        "year": 2007,
+        "rating": "7/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Burn After Reading",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Hunger",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "In Bruges",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "The Boy in the Striped Pyjamas",
+        "year": 2008,
+        "rating": "7.5/10",
+        "genre": ["Drama", "War"]
+      },
+      {
+        "name": "Antichrist",
+        "year": 2009,
+        "rating": "6/10",
+        "genre": ["Drama", "Horror"]
+      },
+      {
+        "name": "Defendor",
+        "year": 2009,
+        "rating": "7/10",
+        "genre": ["Comedy", "Crime", "Drama"]
+      },
+      {
+        "name": "Orphan",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "The Blind Side",
+        "year": 2009,
+        "rating": "7.5/10",
+        "genre": ["Biography", "Drama", "Sport"]
+      },
+      {
+        "name": "A Serbian Film",
+        "year": 2010,
+        "rating": "4/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Step Up",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama", "Music"]
+      },
+      {
+        "name": "The Hangover Part II",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "Beasts of the Southern Wild",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Adventure", "Drama", "Fantasy"]
+      },
+      {
+        "name": "The Dictator",
+        "year": 2012,
+        "rating": "9/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "The Impossible",
+        "year": 2012,
+        "rating": "4/10",
+        "genre": ["Drama", "Thriller"]
+      },
+      {
+        "name": "Dallas Buyers Club",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "Don Jon",
+        "year": 2013,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+      },
+      {
+        "name": "Fruitvale Station",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "Now You See Me",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Crime", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Rush",
+        "year": 2013,
+        "rating": "8.5/10",
+        "genre": ["Action", "Biography", "Drama"]
+      },
+      {
+        "name": "The Wolf of Wall Street",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "Upstream Color",
+        "year": 2013,
+        "rating": "5/10",
+        "genre": ["Drama", "Romance", "Sci-Fi"]
+      },
+      {
+        "name": "Horrible Bosses 2",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "name": "The Interview",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "Cast Away",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": ["Adventure", "Drama", "Romance"]
+    },
+    {
+        "name": "In the Mood for Love",
+        "year": 2000,
+        "rating": null,
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Meet the Parents",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": ["Comedy", "Romance"]
+    },
+    {
+        "name": "Me, Myself & Irene",
+        "year": 2000,
+        "rating": "7/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Requiem for a Dream",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Royal Tenenbaums",
+        "year": 2001,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "name": "Daddy Day Care",
+        "year": 2003,
+        "rating": "4/10",
+        "genre": ["Comedy", "Family"]
+    },
+    {
+        "name": "Lost in Translation",
+        "year": 2003,
+        "rating": "5/10",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "name": "School of Rock",
+        "year": 2003,
+        "rating": "4/10",
+        "genre": ["Comedy", "Music"]
+    },
+    {
+        "name": "Anchorman: The Legend of Ron Burgundy",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Before Sunset",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Dodgeball: A True Underdog Story",
+        "year": 2004,
+        "rating": "5/10",
+        "genre": ["Comedy", "Sport"]
+    },
+    {
+        "name": "Meet the Fockers",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Comedy", "Romance"]
+    },
+    {
+        "name": "The Notebook",
+        "year": 2004,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Capote",
+        "year": 2005,
+        "rating": "7/10",
+        "genre": ["Biography", "Crime", "Drama"]
+    },
+    {
+        "name": "C.R.A.Z.Y.",
+        "year": 2005,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama", "Music"]
+    },
+    {
+        "name": "My Father and My Son",
+        "year": 2005,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "North Country",
+        "year": 2005,
+        "rating": "7/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Pride & Prejudice",
+        "year": 2005,
+        "rating": null,
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Thank You for Smoking",
+        "year": 2005,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "name": "The 40-Year-Old Virgin",
+        "year": 2005,
+        "rating": "7/10",
+        "genre": ["Comedy", "Romance"]
+    },
+    {
+        "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "year": 2006,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Little Children",
+        "year": 2006,
+        "rating": "6/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Little Miss Sunshine",
+        "year": 2006,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "name": "Nacho Libre",
+        "year": 2006,
+        "rating": "4/10",
+        "genre": ["Comedy", "Family", "Sport"]
+    },
+    {
+        "name": "The Painted Veil",
+        "year": 2006,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "The Pursuit of Happyness",
+        "year": 2006,
+        "rating": "8.5/10",
+        "genre": ["Biography", "Drama"]
+    },
+    {
+        "name": "This Is England",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": ["Crime", "Drama"]
+    },
+    {
+        "name": "Atonement",
+        "year": 2007,
+        "rating": "5/10",
+        "genre": ["Drama", "Mystery", "Romance"]
+    },
+    {
+        "name": "Death at a Funeral",
+        "year": 2007,
+        "rating": "6/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Into the Wild",
+        "year": 2007,
+        "rating": "7/10",
+        "genre": ["Adventure", "Biography", "Drama"]
+    },
+    {
+        "name": "La Vie en Rose",
+        "year": 2007,
+        "rating": "6/10",
+        "genre": ["Biography", "Drama", "Music"]
+    },
+    {
+        "name": "Once",
+        "year": 2007,
+        "rating": "7.5/10",
+        "genre": ["Drama", "Music", "Romance"]
+    },
+    {
+        "name": "Pineapple Express",
+        "year": 2008,
+        "rating": "7.5/10",
+        "genre": ["Action", "Comedy", "Crime"]
+    },
+    {
+        "name": "Slumdog Millionaire",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Synecdoche, New York",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Reader",
+        "year": 2008,
+        "rating": "5/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "The Stoning of Soraya M.",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": ["Biography", "Drama"]
+    },
+    {
+        "name": "A Prophet",
+        "year": 2009,
+        "rating": "9/10",
+        "genre": ["Crime", "Drama"]
+    },
+    {
+        "name": "Brothers",
+        "year": 2009,
+        "rating": "6/10",
+        "genre": ["Drama", "Thriller", "War"]
+    },
+    {
+        "name": "Diary of a Wimpy Kid",
+        "year": 2009,
+        "rating": "6/10",
+        "genre": ["Comedy", "Family"]
+    },
+    {
+        "name": "He's Just Not That Into You",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+    },
+    {
+        "name": "World's Greatest Dad",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "name": "(500) Days of Summer",
+        "year": 2009,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+    },
+    {
+        "name": "Blue Valentine",
+        "year": 2010,
+        "rating": "7.5/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Buried",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Drama", "Mystery", "Thriller"]
+    },
+    {
+        "name": "Due Date",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Easy A",
+        "year": 2010,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+    },
+    {
+        "name": "Get Him to the Greek",
+        "year": 2010,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Music"]
+    },
+    {
+        "name": "Incendies",
+        "year": 2010,
+        "rating": "4/10",
+        "genre": ["Drama", "Mystery", "War"]
+    },
+    {
+        "name": "Intimacy",
+        "year": 2001,
+        "rating": "2/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Little Fockers",
+        "year": 2010,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Romance"]
+    },
+    {
+        "name": "Never Let Me Go",
+        "year": 2010,
+        "rating": "5/10",
+        "genre": ["Drama", "Romance", "Sci-Fi"]
+    },
+    {
+        "name": "Scott Pilgrim vs. the World",
+        "year": 2010,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy", "Fantasy"]
+    },
+    {
+        "name": "She's Out of My League",
+        "year": 2010,
+        "rating": "6/10",
+        "genre": ["Comedy", "Romance"]
+    },
+    {
+        "name": "127 Hours",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Adventure", "Biography", "Drama"]
+    },
+    {
+        "name": "A Separation",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Drama", "Mystery"]
+    },
+    {
+        "name": "Crazy, Stupid, Love.",
+        "year": 2011,
+        "rating": "5/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+    },
+    {
+        "name": "Detachment",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Hugo",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": ["Adventure", "Drama", "Family"]
+    },
+    {
+        "name": "Jeff, Who Lives at Home",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "name": "Midnight in Paris",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": ["Comedy", "Fantasy", "Romance"]
+    },
+    {
+        "name": "Shame",
+        "year": 2011,
+        "rating": "7.5/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Human Centipede (First Sequence)",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": ["Horror"]
+    },
+    {
+        "name": "The Ides of March",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": ["Drama", "Thriller"]
+    },
+    {
+        "name": "The Intouchables",
+        "year": 2011,
+        "rating": "9/10",
+        "genre": ["Biography", "Comedy", "Drama"]
+    },
+    {
+        "name": "Water for Elephants",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Amour",
+        "year": 2012,
+        "rating": "5/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Disconnect",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Drama", "Thriller"]
+    },
+    {
+        "name": "Lincoln",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Biography", "Drama", "History"]
+    },
+    {
+        "name": "Moonrise Kingdom",
+        "year": 2012,
+        "rating": "8.5/10",
+        "genre": ["Adventure", "Comedy", "Drama"]
+    },
+    {
+        "name": "Rust and Bone",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Stuck in Love",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+    },
+    {
+        "name": "The Hunt",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Lucky One",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "The Perks of Being a Wallflower",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "What the Day Owes the Night",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Before Midnight",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Begin Again",
+        "year": 2013,
+        "rating": "6/10",
+        "genre": ["Comedy", "Drama", "Music"]
+    },
+    {
+        "name": "Blue Is the Warmest Color",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "Inside Llewyn Davis",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Comedy", "Drama", "Music"]
+    },
+    {
+        "name": "Prisoners",
+        "year": 2013,
+        "rating": "10/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+    },
+    {
+        "name": "Safe Haven",
+        "year": 2013,
+        "rating": "7.5/10",
+        "genre": ["Drama", "Romance", "Thriller"]
+    },
+    {
+        "name": "Short Term 12",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Spectacular Now",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Comedy", "Drama", "Romance"]
+    },
+    {
+        "name": "12 Years a Slave",
+        "year": 2013,
+        "rating": "9/10",
+        "genre": ["Biography", "Drama", "History"]
+    },
+    {
+        "name": "3096 Days",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Biography", "Crime", "Drama"]
+    },
+    {
+        "name": "Birdman",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": ["Comedy", "Drama"]
+    },
+    {
+        "name": "Boyhood",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Citizenfour",
+        "year": 2014,
+        "rating": "3/10",
+        "genre": ["Documentary", "Biography", "Crime"]
+    },
+    {
+        "name": "Mommy",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Nightcrawler",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+    },
+    {
+        "name": "Sex Tape",
+        "year": 2014,
+        "rating": "7/10",
+        "genre": ["Comedy", "Romance"]
+    },
+    {
+        "name": "Still Alice",
+        "year": 2014,
+        "rating": "4/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Fault in Our Stars",
+        "year": 2014,
+        "rating": "9/10",
+        "genre": ["Drama", "Romance"]
+    },
+    {
+        "name": "The Grand Budapest Hotel",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Adventure", "Comedy", "Crime"]
+    },
+    {
+        "name": "The Imitation Game",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Biography", "Drama", "Thriller"]
+    },
+    {
+        "name": "The Normal Heart",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": ["Drama", "History", "Romance"]
+    },
+    {
+        "name": "The Other Woman",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": ["Comedy", "Romance"]
+    },
+    {
+        "name": "The Theory of Everything",
+        "year": 2014,
+        "rating": "7/10",
+        "genre": ["Biography", "Drama", "Romance"]
+    },
+    {
+        "name": "Wheels",
+        "year": 2014,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama", "Sport"]
+    },
+    {
+        "name": "Whiplash",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Drama", "Music"]
+    },
+    {
+        "name": "White Bird in a Blizzard",
+        "year": 2014,
+        "rating": "7/10",
+        "genre": ["Drama", "Mystery", "Thriller"]
+    },
+    {
+        "name": "X-Men",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Spider-Man",
+        "year": 2002,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Peter Pan",
+        "year": 2003,
+        "rating": "5/10",
+        "genre": ["Adventure", "Family", "Fantasy"]
+      },
+      {
+        "name": "The Matrix Reloaded",
+        "year": 2003,
+        "rating": "8/10",
+        "genre": ["Action", "Sci-Fi"]
+      },
+      {
+        "name": "Down the Planet of the Apes",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Hellboy",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Action", "Fantasy", "Sci-Fi"]
+      },
+      {
+        "name": "I, Robot",
+        "year": 2004,
+        "rating": "7.5/10",
+        "genre": ["Action", "Sci-Fi"]
+      },
+      {
+        "name": "Shaun of the Dead",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Comedy", "Horror"]
+      },
+      {
+        "name": "Spider-Man 2",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Constantine",
+        "year": 2005,
+        "rating": "7.5/10",
+        "genre": ["Action", "Fantasy", "Horror"]
+      },
+      {
+        "name": "Fantastic Four",
+        "year": 2005,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Family"]
+      },
+      {
+        "name": "King Kong",
+        "year": 2005,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Apocalypto",
+        "year": 2006,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Superman Returns",
+        "year": 2006,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Ghost Rider",
+        "year": 2007,
+        "rating": "5/10",
+        "genre": ["Action", "Fantasy", "Thriller"]
+      },
+      {
+        "name": "I Am Legend",
+        "year": 2007,
+        "rating": "10/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Pirates of the Caribbean: At World's End",
+        "year": 2007,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "The Golden Compass",
+        "year": 2007,
+        "rating": "6/10",
+        "genre": ["Adventure", "Family", "Fantasy"]
+      },
+      {
+        "name": "10,000 BC",
+        "year": 2008,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Avatar",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Star Trek",
+        "year": 2009,
+        "rating": "8.5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Watchmen",
+        "year": 2009,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama", "Mystery"]
+      },
+      {
+        "name": "X-Men Origins: Wolverine",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Book of Eli",
+        "year": 2010,
+        "rating": "10/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Captain America: The First Avenger",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Green Lantern",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Pirates of the Caribbean: On Stranger Tides",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Thor",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Rise of the Planet of the Apes",
+        "year": 2011,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "X-Men: First Class",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Abraham Lincoln: Vampire Hunter",
+        "year": 2012,
+        "rating": "7.5/10",
+        "genre": ["Action", "Fantasy", "Horror"]
+      },
+      {
+        "name": "Chronicle",
+        "year": 2012,
+        "rating": "6.5/10",
+        "genre": ["Drama", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "John Carter",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Hunger Games",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "After Earth",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Coherence",
+        "year": 2013,
+        "rating": "4/10",
+        "genre": ["Drama", "Mystery", "Sci-Fi"]
+      },
+      {
+        "name": "Iron Man 3",
+        "year": 2013,
+        "rating": "10/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Open Grave",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "Pain & Gain",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "Star Trek Into Darkness",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Conjuring",
+        "year": 2013,
+        "rating": "6/10",
+        "genre": ["Horror", "Mystery", "Thriller"]
+      },
+      {
+        "name": "The Hunger Games: Catching Fire",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Purge",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Action", "Horror", "Sci-Fi"]
+      },
+      {
+        "name": "The Wolverine",
+        "year": 2013,
+        "rating": "10/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The World's End",
+        "year": 2013,
+        "rating": "7.5/10",
+        "genre": ["Action", "Comedy", "Sci-Fi"]
+      },
+      {
+        "name": "Thor: The Dark World",
+        "year": 2013,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "World War Z",
+        "year": 2013,
+        "rating": "9/10",
+        "genre": ["Action", "Adventure", "Horror"]
+      },
+      {
+        "name": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Clown",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": ["Horror", "Thriller"]
+      },
+      {
+        "name": "Guardians of the Galaxy",
+        "year": 2014,
+        "rating": "9/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "RoboCop",
+        "year": 2014,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Sci-Fi"]
+      },
+      {
+        "name": "The Amazing Spider-Man 2",
+        "year": 2014,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Hunger Games: Mockingjay - Part 1",
+        "year": 2014,
+        "rating": "5/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Monuments Men",
+        "year": 2014,
+        "rating": "3/10",
+        "genre": ["Comedy", "Drama", "History"]
+      },
+      {
+        "name": "The Purge: Anarchy",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": ["Action", "Horror", "Sci-Fi"]
+      },
+      {
+        "name": "X-Men: Days of Future Past",
+        "year": 2014,
+        "rating": "10/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "American Psycho",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "Romeo Must Die",
+        "year": 2000,
+        "rating": "7/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Scary Movie",
+        "year": 2000,
+        "rating": "5/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "The Fast and the Furious",
+        "year": 2001,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Lara Croft: Tomb Raider",
+        "year": 2001,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "Ocean's Eleven",
+        "year": 2001,
+        "rating": "8/10",
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "name": "Training Day",
+        "year": 2001,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "name": "City of God",
+        "year": 2002,
+        "rating": "9/10",
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "Bad Boys II",
+        "year": 2003,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "2 Fast 2 Furious",
+        "year": 2003,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "rating": "6/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Oldboy",
+        "year": 2003,
+        "rating": "3/10",
+        "genre": ["Action", "Drama", "Mystery"]
+      },
+      {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": 2003,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "The Last Samurai",
+        "year": 2003,
+        "rating": "8/10",
+        "genre": ["Action", "Drama", "History"]
+      },
+      {
+        "name": "Collateral",
+        "year": 2004,
+        "rating": "7/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "name": "Kill Bill: Vol. 2",
+        "year": 2004,
+        "rating": "6/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Ocean's Twelve",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "name": "Troy",
+        "year": 2004,
+        "rating": "7/10",
+        "genre": ["Drama", "History"]
+      },
+      {
+        "name": "Batman Begins",
+        "year": 2005,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Thriller"]
+      },
+      {
+        "name": "Four Brothers",
+        "year": 2005,
+        "rating": "6/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Lord of War",
+        "year": 2005,
+        "rating": "8.5/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Mr. & Mrs. Smith",
+        "year": 2005,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "Sin City",
+        "year": 2005,
+        "rating": "8/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "The Descent",
+        "year": 2005,
+        "rating": "8/10",
+        "genre": ["Adventure", "Horror"]
+      },
+      {
+        "name": "V for Vendetta",
+        "year": 2005,
+        "rating": "9/10",
+        "genre": ["Action", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "300",
+        "year": 2006,
+        "rating": "8/10",
+        "genre": ["Action", "Fantasy"]
+      },
+      {
+        "name": "Black Book",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": ["Drama", "Thriller", "War"]
+      },
+      {
+        "name": "Deja Vu",
+        "year": 2006,
+        "rating": "5/10",
+        "genre": ["Action", "Crime", "Sci-Fi"]
+      },
+      {
+        "name": "The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Flyboys",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": ["Action", "Adventure", "Drama"]
+      },
+      {
+        "name": "Inside Man",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "Pirates of the Caribbean: Dead Man's Chest",
+        "year": 2006,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Fantasy"]
+      },
+      {
+        "name": "The Marine",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama", "Thriller"]
+      },
+      {
+        "name": "Hitman",
+        "year": 2007,
+        "rating": "8/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Hot Fuzz",
+        "year": 2007,
+        "rating": "5/10",
+        "genre": ["Action", "Comedy", "Mystery"]
+      },
+      {
+        "name": "No Country for Old Men",
+        "year": 2007,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama", "Thriller"]
+      },
+      {
+        "name": "Ocean's Thirteen",
+        "year": 2007,
+        "rating": "8/10",
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "name": "Spider-Man 3",
+        "year": 2007,
+        "rating": "7/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Assassination of Jesse James by the Coward Robert Ford",
+        "year": 2007,
+        "rating": "7/10",
+        "genre": ["Biography", "Crime", "Drama"]
+      },
+      {
+        "name": "Death Race",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Action", "Sci-Fi", "Thriller"]
+      },
+      {
+        "name": "Get Smart",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Comedy"]
+      },
+      {
+        "name": "Gran Torino",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Drama"]
+      },
+      {
+        "name": "Ip Man",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Action", "Biography", "Drama"]
+      },
+      {
+        "name": "Iron Man",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Never Back Down",
+        "year": 2008,
+        "rating": "7.5/10",
+        "genre": ["Action", "Drama", "Sport"]
+      },
+      {
+        "name": "Rambo",
+        "year": 2008,
+        "rating": "7/10",
+        "genre": ["Action", "Thriller", "War"]
+      },
+      {
+        "name": "The Dark Knight",
+        "year": 2008,
+        "rating": "8.5/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Tropic Thunder",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": ["Action", "Comedy", "War"]
+      },
+      {
+        "name": "Crank: High Voltage",
+        "year": 2009,
+        "rating": "7.5/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "Fast & Furious",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Inglourious Basterds",
+        "year": 2009,
+        "rating": "8.5/10",
+        "genre": ["Adventure", "Drama", "War"]
+      },
+      {
+        "name": "Sherlock Holmes",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Mystery"]
+      },
+      {
+        "name": "The Hangover",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "I Saw the Devil",
+        "year": 2010,
+        "rating": "7/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Iron Man 2",
+        "year": 2010,
+        "rating": "9/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Kick-Ass",
+        "year": 2010,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "Red",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "The Expendables",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Thriller"]
+      },
+      {
+        "name": "The Fighter",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Biography", "Drama", "Sport"]
+      },
+      {
+        "name": "The Tuxedo",
+        "year": 2010,
+        "rating": "7/10",
+        "genre": ["Action", "Comedy", "Sci-Fi"]
+      },
+      {
+        "name": "True Grit",
+        "year": 2010,
+        "rating": "7.5/10",
+        "genre": ["Adventure", "Drama", "Western"]
+      },
+      {
+        "name": "127 Hours",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": ["Biography", "Drama"]
+      },
+      {
+        "name": "Colombiana",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Drive",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Crime", "Drama"]
+      },
+      {
+        "name": "Fast Five",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Crime"]
+      },
+      {
+        "name": "Mission: Impossible - Ghost Protocol",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Thriller"]
+      },
+      {
+        "name": "Sherlock Holmes: A Game of Shadows",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Mystery"]
+      },
+      {
+        "name": "Warrior",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": ["Drama", "Sport"]
+      },
+      {
+        "name": "Django Unchained",
+        "year": 2012,
+        "rating": "9/10",
+        "genre": ["Drama", "Western"]
+      },
+      {
+        "name": "End of Watch",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "Here Comes the Boom",
+        "year": 2012,
+        "rating": "7.5/10",
+        "genre": ["Action", "Comedy", "Sport"]
+      },
+      {
+        "name": "Les Misérables",
+        "year": 2012,
+        "rating": "1/10",
+        "genre": ["Drama", "History", "Musical"]
+      },
+      {
+        "name": "Premium Rush",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Project X",
+        "year": 2012,
+        "rating": "7.5/10",
+        "genre": ["Comedy"]
+      },
+      {
+        "name": "Seven Psychopaths",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "name": "Skyfall",
+        "year": 2012,
+        "rating": "8.5/10",
+        "genre": ["Action", "Adventure", "Thriller"]
+      },
+      {
+        "name": "The Avengers",
+        "year": 2012,
+        "rating": "9/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Amazing Spider-Man",
+        "year": 2012,
+        "rating": "6/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "The Dark Knight Rises",
+        "year": 2012,
+        "rating": "10/10",
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "name": "The Expendables 2",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Thriller"]
+      },
+      {
+        "name": "21 Jump Street",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "Fast & Furious 6",
+        "year": 2013,
+        "rating": "8.5/10",
+        "genre": ["Action", "Adventure", "Thriller"]
+      },
+      {
+        "name": "G.I. Joe: Retaliation",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Sci-Fi"]
+      },
+      {
+        "name": "Kick-Ass 2",
+        "year": 2013,
+        "rating": "6/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      },
+      {
+        "name": "The Hangover Part III",
+        "year": 2013,
+        "rating": "7.5/10",
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "name": "Trance",
+        "year": 2013,
+        "rating": "7/10",
+        "genre": ["Crime", "Drama", "Mystery"]
+      },
+      {
+        "name": "American Sniper",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Action", "Biography", "Drama"]
+      },
+      {
+        "name": "Fury",
+        "year": 2014,
+        "rating": "9/10",
+        "genre": ["Action", "Drama", "War"]
+      },
+      {
+        "name": "John Wick",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "Need for Speed",
+        "year": 2014,
+        "rating": "7.5/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "The Equalizer",
+        "year": 2014,
+        "rating": "4/10",
+        "genre": ["Action", "Crime", "Thriller"]
+      },
+      {
+        "name": "The Expendables 3",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Action", "Adventure", "Thriller"]
+      },
+      {
+        "name": "The Rover",
+        "year": 2014,
+        "rating": "5/10",
+        "genre": ["Crime", "Drama", "Sci-Fi"]
+      },
+      {
+        "name": "Unbroken",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Biography", "Drama", "Sport"]
+      },
+      {
+        "name": "Who Am I",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Action", "Crime", "Drama"]
+      },
+      {
+        "name": "22 Jump Street",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": ["Action", "Comedy", "Crime"]
+      }
+      
+  ]
+  

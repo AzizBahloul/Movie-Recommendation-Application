@@ -1,0 +1,327 @@
+[
+    {
+        "name": "2001: A Space Odyssey",
+        "year": 1968,
+        "rating": "7.5/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "Alien",
+        "year": 1979,
+        "rating": "6/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "Back to the Future 1",
+        "year": 1985,
+        "rating": "8/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "Volcano",
+        "year": 1997,
+        "rating": "6/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "rating": "7.5/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "The Matrix",
+        "year": 1999,
+        "rating": "8/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "Blade Runner 1",
+        "year": 1982,
+        "rating": "8/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "Pulp Fiction",
+        "year": 1994,
+        "rating": "9/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Mask",
+        "year": 1994,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Twelve Monkeys",
+        "year": 1995,
+        "rating": "5/10",
+        "genre": ["Science Fiction"]
+    },
+    {
+        "name": "Halloween",
+        "year": 1978,
+        "rating": "6/10",
+        "genre": ["Horror"]
+    },
+    {
+        "name": "Rocky 1",
+        "year": 1976,
+        "rating": "7/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Sorcerer",
+        "year": 1977,
+        "rating": "8/10",
+        "genre": ["Action"]
+    },
+    {
+        "name": "Come and See",
+        "year": 1985,
+        "rating": "7/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Die Hard 1",
+        "year": 1988,
+        "rating": "7.5/10",
+        "genre": ["Action"]
+    },
+    {
+        "name": "Full Metal Jacket",
+        "year": 1987,
+        "rating": "8/10",
+        "genre": ["War"]
+    },
+    {
+        "name": "Friday the 13th",
+        "year": 1980,
+        "rating": "8/10",
+        "genre": ["Horror"]
+    },
+    {
+        "name": "Scarface",
+        "year": 1983,
+        "rating": "8/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "The Shining",
+        "year": 1980,
+        "rating": "7.5/10",
+        "genre": ["Horror"]
+    },
+    {
+        "name": "Goodfellas",
+        "year": 1990,
+        "rating": "8/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "Heat",
+        "year": 1995,
+        "rating": "7/10",
+        "genre": ["Action"]
+    },
+    {
+        "name": "L.A. Confidential",
+        "year": 1997,
+        "rating": "7.5/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "Leon: The Professional",
+        "year": 1994,
+        "rating": "8.5/10",
+        "genre": ["Action"]
+    },
+    {
+        "name": "Lock, Stock and Two Smoking Barrels",
+        "year": 1998,
+        "rating": "7/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "Se7en",
+        "year": 1995,
+        "rating": "7.5/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "The Big Lebowski",
+        "year": 1998,
+        "rating": "7/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "The Game",
+        "year": 1997,
+        "rating": "8.5/10",
+        "genre": ["Thriller"]
+    },
+    {
+        "name": "The Usual Suspects",
+        "year": 1995,
+        "rating": "7.5/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "Rosemary's Baby",
+        "year": 1968,
+        "rating": "8/10",
+        "genre": ["Horror"]
+    },
+    {
+        "name": "Groundhog Day",
+        "year": 1993,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "The Green Mile",
+        "year": 1999,
+        "rating": "9/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Seven Samurai",
+        "year": 1954,
+        "rating": "7.5/10",
+        "genre": ["Action"]
+    },
+    {
+        "name": "Taxi Driver",
+        "year": 1976,
+        "rating": "7/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Godfather Part 1",
+        "year": 1972,
+        "rating": "7/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "The Godfather Part 2",
+        "year": 1974,
+        "rating": "7.5/10",
+        "genre": ["Crime"]
+    },
+    {
+        "name": "Casablanca",
+        "year": 1942,
+        "rating": "7/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "year": 1974,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Coming to America",
+        "year": 1988,
+        "rating": "7.5/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Paris, Texas",
+        "year": 1984,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The King of Comedy",
+        "year": 1982,
+        "rating": "9/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "American Beauty",
+        "year": 1999,
+        "rating": "7.5/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Before Sunrise",
+        "year": 1995,
+        "rating": "8.5/10",
+        "genre": ["Romance"]
+    },
+    {
+        "name": "Chungking Express",
+        "year": 1994,
+        "rating": "6/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Dazed and Confused",
+        "year": 1993,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "Eyes Wide Shut",
+        "year": 1999,
+        "rating": "7.5/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Fallen Angels",
+        "year": 1995,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Forrest Gump",
+        "year": 1994,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "Good Will Hunting",
+        "year": 1997,
+        "rating": "7.5/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Addams Family",
+        "year": 1991,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "The Cable Guy",
+        "year": 1996,
+        "rating": "7.5/10",
+        "genre": ["Comedy"]
+    },
+    {
+        "name": "The Legend of 1900",
+        "year": 1998,
+        "rating": "8/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "rating": "9/10",
+        "genre": ["Drama"]
+    },
+    {
+        "name": "The Talented Mr. Ripley",
+        "year": 1999,
+        "rating": "7.5/10",
+        "genre": ["Thriller"]
+    },
+    {
+        "name": "The Truman Show",
+        "year": 1998,
+        "rating": "8/10",
+        "genre": ["Comedy"]
+    }
+    
+]
