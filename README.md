@@ -25,9 +25,18 @@ Contents
 
 Each JSON file contains an array of movie objects, where each movie object has the following attributes:
 
+
+
 Name: The title of the movie.
+
+
 Year: The year the movie was released.
+
+
 Rating: The rating given to the movie, typically on a scale of 1 to 10.
+
+
+
 Genre: The genre(s) of the movie.
 
 
