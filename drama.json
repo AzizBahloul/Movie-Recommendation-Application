@@ -1,636 +1,1571 @@
 
 [
-    {"Movie": "Casablanca", "Year": 1942, "Rating": "7/10"},
-    {"Movie": "Annie Hall", "Year": 1977, "Rating": "5/10"},
-    {"Movie": "One Flew Over the Cuckoo's Nest", "Year": 1974, "Rating": "8/10"},
-    {"Movie": "The Story Of O", "Year": 1975, "Rating": "6/10"},
-    {"Movie": "Coming to America", "Year": 1988, "Rating": "7.5/10"},
-    {"Movie": "Paris Texas", "Year": 1984, "Rating": "8/10"},
-    {"Movie": "The Color Purple", "Year": 1985, "Rating": "3/10"},
-    {"Movie": "The King of Comedy", "Year": 1982, "Rating": "9/10"},
-    {"Movie": "The Seventh Continent", "Year": 1989, "Rating": "4/10"},
-    {"Movie": "American Beauty", "Year": 1999, "Rating": "7.5/10"},
-    {"Movie": "Before Sunrise", "Year": 1995, "Rating": "8.5/10"},
-    {"Movie": "Chungking Express", "Year": 1994, "Rating": "6/10"},
-    {"Movie": "Dazed and Confused", "Year": 1993, "Rating": "8/10"},
-    {"Movie": "Eyes Wide Shut", "Year": 1999, "Rating": "7.5/10"},
-    {"Movie": "Fallen Angel", "Year": 1995, "Rating": "8/10"},
-    {"Movie": "Forrest Gump", "Year": 1994, "Rating": "8/10"},
-    {"Movie": "Good Will Hunting", "Year": 1997, "Rating": "7.5/10"},
-    {"Movie": "The Addams Family", "Year": 1991, "Rating": "8/10"},
-    {"Movie": "The Breakfast Club", "Year": 1993, "Rating": "5/10"},
-    {"Movie": "The Cable Guy", "Year": 1996, "Rating": "7.5/10"},
-    {"Movie": "The Legend of 1900", "Year": 1998, "Rating": "8/10"},
-    {"Movie": "The Shawshank Redemption", "Year": 1994, "Rating": "9/10"},
-    {"Movie": "The Talented Mr. Ripley", "Year": 1999, "Rating": "7.5/10"},
-    {"Movie": "The Truman Show", "Year": 1998, "Rating": "8/10"},
-    {"Movie": "Cast Away", "Year": 2000, "Rating": "8/10"},
-    {"Movie": "In the Mood for Love", "Year": 2000, "Rating": "N/A"},
-    {"Movie": "Meet the Parents", "Year": 2000, "Rating": "8/10"},
-    {"Movie": "Me Myself and Irene", "Year": 2000, "Rating": "7/10"},
-    {"Movie": "Requiem for a Dream", "Year": 2000, "Rating": "8/10"},
-    {"Movie": "The Royal Tenenbaums", "Year": 2001, "Rating": "8/10"},
-    {"Movie": "Daddy Day Care", "Year": 2003, "Rating": "4/10"},
-    {"Movie": "Lost in Translation", "Year": 2003, "Rating": "5/10"},
-    {"Movie": "School of Rock", "Year": 2003, "Rating": "4/10"},
-    {"Movie": "Anchorman: The Legend of Ron Burgundy", "Year": 2004, "Rating": "8/10"},
-    {"Movie": "Before Sunset", "Year": 2004, "Rating": "8/10"},
-    {"Movie": "Dodgeball: A True Underdog Story", "Year": 2004, "Rating": "5/10"},
-    {"Movie": "Meet the Fockers", "Year": 2004, "Rating": "8/10"},
-    {"Movie": "The Notebook", "Year": 2004, "Rating": "7/10"},
-    {"Movie": "Capote", "Year": 2005, "Rating": "7/10"},
-    {"Movie": "C.R.A.Z.Y", "Year": 2005, "Rating": "7.5/10"},
-    {"Movie": "My Father and My Son", "Year": 2005, "Rating": "8/10"},
-    {"Movie": "North Country", "Year": 2005, "Rating": "7/10"},
-    {"Movie": "Thank You for Smoking", "Year": 2005, "Rating": "7.5/10"},
-    {"Movie": "The 40 Years Old Virgin", "Year": 2005, "Rating": "7/10"},
-    {"Movie": "Borat: Cultural Learnings Of America For Make Benefit Glorious Nation", "Year": 2006, "Rating": "8/10"},
-    {"Movie": "Little Children", "Year": 2006, "Rating": "6/10"},
-    {"Movie": "Little Miss Sunshine", "Year": 2006, "Rating": "7/10"},
-    {"Movie": "Nacho Libre", "Year": 2006, "Rating": "4/10"},
-    {"Movie": "The Painted Veil", "Year": 2006, "Rating": "7/10"},
-    {"Movie": "The Pursuit of Happiness", "Year": 2006, "Rating": "8.5/10"},
-    {"Movie": "This Is England", "Year": 2006, "Rating": "7.5/10"},
-    {"Movie": "Atonement", "Year": 2007, "Rating": "5/10"},
-    {"Movie": "Death at a Funeral", "Year": 2007, "Rating": "6/10"},
-    {"Movie": "Into the Wild", "Year": 2007, "Rating": "7/10"},
-    {"Movie": "La Vie En Rose", "Year": 2007, "Rating": "6/10"},
-    {"Movie": "Once", "Year": 2007, "Rating": "7.5/10"},
-    {"Movie": "Pineapple Express", "Year": 2008, "Rating": "7.5/10"},
-    {"Movie": "Slumdog Millionaire", "Year": 2008, "Rating": "8/10"},
-    {"Movie": "Synecdoche New York", "Year": 2008, "Rating": "6/10"},
-    {"Movie": "The Reader", "Year": 2008, "Rating": "5/10"},
-    {"Movie": "The Stoning of Soraya M", "Year": 2008, "Rating": "6/10"},
-    {"Movie": "A Prophet", "Year": 2009, "Rating": "9/10"},
-    {"Movie": "Brothers", "Year": 2009, "Rating": "6/10"},
-    {"Movie": "Diary of a Wimpy Kid", "Year": 2009, "Rating": "6/10"},
-    {"Movie": "He's Just Not That Into You", "Year": 2009, "Rating": "8/10"},
-    {"Movie": "World’s Greatest Dad", "Year": 2009, "Rating": "8/10"},
-    {"Movie": "500 Days of Summer", "Year": 2009, "Rating": "7/10"},
-    {"Movie": "Blue Valentine", "Year": 2010, "Rating": "7.5/10"},
-    {"Movie": "Buried", "Year": 2010, "Rating": "8/10"},
-    {"Movie": "Due Date", "Year": 2010, "Rating": "8/10"},
-    {"Movie": "Easy A", "Year": 2010, "Rating": "7/10"},
-    {"Movie": "Get Him to the Creek", "Year": 2010, "Rating": "7.5/10"},
-    {"Movie": "Incendies", "Year": 2010, "Rating": "4/10"},
-    {"Movie": "Intimacy", "Year": 2001, "Rating": "2/10"},
-    {"Movie": "Little Fockers", "Year": 2010, "Rating": "7.5/10"},
-    {"Movie": "Never Let Me Go", "Year": 2010, "Rating": "5/10"},
-    {"Movie": "Scott Pilgrim vs. the World", "Year": 2010, "Rating": "7/10"},
-    {"Movie": "She's Out of My League", "Year": 2010, "Rating": "6/10"},
-    {"Movie": "127 Hours", "Year": 2010, "Rating": "8/10"},
-    {"Movie": "A Separation", "Year": 2011, "Rating": "8/10"},
-    {"Movie": "Crazy Stupid Love", "Year": 2011, "Rating": "5/10"},
-    {"Movie": "Detachment", "Year": 2011, "Rating": "8/10"},
-    {"Movie": "Hugo", "Year": 2011, "Rating": "6/10"},
-    {"Movie": "Jeff Who Lives at Home", "Year": 2011, "Rating": "6/10"},
-    {"Movie": "Midnight in Paris", "Year": 2011, "Rating": "6/10"},
-    {"Movie": "Shame", "Year": 2011, "Rating": "7.5/10"},
-    {"Movie": "The Human Centipede", "Year": 2011, "Rating": "7/10"},
-    {"Movie": "The Ides of March", "Year": 2011, "Rating": "7/10"},
-    {"Movie": "The Intouchables", "Year": 2011, "Rating": "9/10"},
-    {"Movie": "Water for Elephants", "Year": 2011, "Rating": "6/10"},
-    {"Movie": "Amour", "Year": 2012, "Rating": "5/10"},
-    {"Movie": "Disconnect", "Year": 2012, "Rating": "8/10"},
-    {"Movie": "Lincoln", "Year": 2012, "Rating": "7/10"},
-    {"Movie": "Moonrise Kingdom", "Year": 2012, "Rating": "8.5/10"},
-    {"Movie": "Rust and Bones", "Year": 2012, "Rating": "7/10"},
-    {"Movie": "Stuck in Love", "Year": 2012, "Rating": "8/10"},
-    {"Movie": "The Hunt", "Year": 2012, "Rating": "8/10"},
-    {"Movie": "The Lucky One", "Year": 2012, "Rating": "7/10"},
-    {"Movie": "The Perks Of Being A Wallflower", "Year": 2012, "Rating": "7/10"},
-    {"Movie": "What the Day Owes the Night", "Year": 2012, "Rating": "8/10"},
-    {"Movie": "Before Midnight", "Year": 2013, "Rating": "8/10"},
-    {"Movie": "Begin Again", "Year": 2013, "Rating": "6/10"},
-    {"Movie": "Blue Is the Warmest Color", "Year": 2013, "Rating": "7/10"},
-    {"Movie": "Inside Llewyn Davis", "Year": 2013, "Rating": "8/10"},
-    {"Movie": "Prisoners", "Year": 2013, "Rating": "10/10"},
-    {"Movie": "Safe Haven", "Year": 2013, "Rating": "7.5/10"},
-    {"Movie": "Short Term 12", "Year": 2013, "Rating": "8/10"},
-    {"Movie": "The Spectacular Now", "Year": 2013, "Rating": "7/10"},
-    {"Movie": "12 Years a Slave", "Year": 2013, "Rating": "8/10"},
-    {"Movie": "3096 Days", "Year": 2013, "Rating": "7/10"},
-    {"Movie": "Birdman", "Year": 2014, "Rating": "6/10"},
-    {"Movie": "Boyhood", "Year": 2014, "Rating": "8/10"},
-    {"Movie": "Citizenfour", "Year": 2014, "Rating": "3/10"},
-    {"Movie": "Mommy", "Year": 2014, "Rating": "8/10"},
-    {"Movie": "Nightcrawler", "Year": 2014, "Rating": "8/10"},
-    {"Movie": "Sex Tape", "Year": 2014, "Rating": "7/10"},
-    {"Movie": "Still Alice", "Year": 2014, "Rating": "4/10"},
-    {"Movie": "The Fault in Our Stars", "Year": 2014, "Rating": "10/10"},
-    {"Movie": "The Grand Budapest Hotel", "Year": 2014, "Rating": "8/10"},
-    {"Movie": "The Imitation Game", "Year": 2014, "Rating": "8/10"},
-    {"Movie": "The Normal Heart", "Year": 2014, "Rating": "6/10"},
-    {"Movie": "The Other Woman", "Year": 2014, "Rating": "6/10"},
-    {"Movie": "The Theory of Everything", "Year": 2014, "Rating": "7/10"},
-    {"Movie": "Wheels", "Year": 2014, "Rating": "7.5/10"},
-    {"Movie": "Whiplash", "Year": 2014, "Rating": "8/10"},
-    {"Movie": "White Bird in a Blizzard", "Year": 2014, "Rating": "7/10"},
-    {"Movie": "A Man Called Ove", "Year": 2015, "Rating": "3/10"},
-    {"Movie": "Daddy Home", "Year": 2015, "Rating": "7/10"},
-    {"Movie": "Dope", "Year": 2015, "Rating": "7.5/10"},
-    {"Movie": "Fifty Shades of Grey", "Year": 2015, "Rating": "8/10"},
-    {"Movie": "Knock Knock", "Year": 2015, "Rating": "2/10"},
-    {"Movie": "Me, Earl and the Dying Girl", "Year": 2015, "Rating": "8/10"},
-    {"Movie": "Spotlight", "Year": 2015, "Rating": "8/10"},
-    {"Movie": "The Big Short", "Year": 2015, "Rating": "5/10"},
-    {"Movie": "The Diary of a Teenager Girl", "Year": 2015, "Rating": "7/10"},
-    {"Movie": "The Wedding Ringer", "Year": 2015, "Rating": "8.5/10"},
-    {"Movie": "Captain Fantastic", "Year": 2016, "Rating": "8/10"},
-    {"Movie": "Demain Tout Commence", "Year": 2016, "Rating": "8/10"},
-    {"Movie": "Hail Caesar", "Year": 2016, "Rating": "7.5/10"},
-    {"Movie": "Lala Land", "Year": 2016, "Rating": "7.5/10"},
-    {"Movie": "Lion", "Year": 2016, "Rating": "9/10"},
-    {"Movie": "Little Sister", "Year": 2016, "Rating": "6/10"},
-    {"Movie": "Manchester by the Sea", "Year": 2016, "Rating": "7.5/10"},
-    {"Movie": "Me Before You", "Year": 2016, "Rating": "8/10"},
-    {"Movie": "Mr Church", "Year": 2016, "Rating": "8/10"},
-    {"Movie": "Raw", "Year": 2016, "Rating": "8.5/10"},
-    {"Movie": "Siccin", "Year": 2018, "Rating": "3/10"},
-    {"Movie": "Sing Street", "Year": 2016, "Rating": "7/10"},
-    {"Movie": "The Choice", "Year": 2016, "Rating": "7/10"},
-    {"Movie": "The Handmaiden", "Year": 2016, "Rating": "7/10"},
-    {"Movie": "The Invisible Guest", "Year": 2016, "Rating": "4/10"},
-    {"Movie": "Why Him", "Year": 2016, "Rating": "7/10"},
-    {"Movie": "20th Century Women", "Year": 2016, "Rating": "7/10"},
-    {"Movie": "Bad Genius", "Year": 2017, "Rating": "7.5/10"},
-    {"Movie": "Darkest Hour", "Year": 2017, "Rating": "7/10"},
-    {"Movie": "Everything, Everything", "Year": 2017, "Rating": "8/10"},
-    {"Movie": "Fifty Shades Darker", "Year": 2017, "Rating": "7/10"},
-    {"Movie": "I Tonya", "Year": 2017, "Rating": "7.5/10"},
-    {"Movie": "Ingrid Goes West", "Year": 2017, "Rating": "5/10"},
-    {"Movie": "Stronger", "Year": 2017, "Rating": "7/10"},
-    {"Movie": "The Disaster Artist", "Year": 2017, "Rating": "7/10"},
-    {"Movie": "The Florida Project", "Year": 2017, "Rating": "9/10"},
-    {"Movie": "The Killing of a Sacred Deer", "Year": 2017, "Rating": "8/10"},
-    {"Movie": "Three Billboards Outside", "Year": 2017, "Rating": "7.5/10"},
-    {"Movie": "Wonder", "Year": 2017, "Rating": "8/10"},
-    {"Movie": "Twelve Years Night", "Year": 2018, "Rating": "8/10"},
-    {"Movie": "Black.K.Klansman", "Year": 2018, "Rating": "5/10"},
-    {"Movie": "BlindSpotting", "Year": 2018, "Rating": "8/10"},
-    {"Movie": "Bohemian Rhapsody", "Year": 2018, "Rating": "8.5/10"},
-    {"Movie": "Climax", "Year": 2018, "Rating": "5/10"},
-    {"Movie": "Crazy Rich Asians", "Year": 2018, "Rating": "7/10"},
-    {"Movie": "Eighth Grade", "Year": 2018, "Rating": "6/10"},
-    {"Movie": "Free Solo", "Year": 2018, "Rating": "7/10"},
-    {"Movie": "Green Book", "Year": 2018, "Rating": "9/10"},
-    {"Movie": "Love, Simon", "Year": 2018, "Rating": "7.5/10"},
-    {"Movie": "Mamma Mia Here We Go Again", "Year": 2018, "Rating": "2/10"},
-    {"Movie": "Searching", "Year": 2018, "Rating": "8/10"},
-    {"Movie": "The Ballad of Buster Scruggs", "Year": 2018, "Rating": "7/10"},
-    {"Movie": "The Favourite", "Year": 2018, "Rating": "7/10"},
-    {"Movie": "The Mustang", "Year": 2018, "Rating": "6/10"},
-    {"Movie": "303", "Year": 2018, "Rating": "6.5/10"},
-    {"Movie": "A Marriage Story", "Year": 2019, "Rating": "7/10"},
-    {"Movie": "A Son", "Year": 2019, "Rating": "4/10"},
-    {"Movie": "Big-Time Adolescence", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Booksmart", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Bombshell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Five Feet Apart", "Year": 2019, "Rating": "7.5/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Judy", "Year": 2019, "Rating": "7/10"},
-    {"Movie": "Knives Out", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "La Belle Époque", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Marriage Story", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Once Upon a Time... in Hollywood", "Year": 2019, "Rating": "8.5/10"},
-    {"Movie": "Pain and Glory", "Year": 2019, "Rating": "9/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "9/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "7/10"},
-    {"Movie": "The Lion King", "Year": 2019, "Rating": "7/10"},
-    {"Movie": "The Souvenir", "Year": 2019, "Rating": "6/10"},
-    {"Movie": "Uncut Gems", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8.5/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Knives Out", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Little Women", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Parasite", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Joker", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Jojo Rabbit", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Farewell", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "The Irishman", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "Weathering with You", "Year": 2019, "Rating": "8/10"},
-    {"Movie": "1917", "Year": 2019, "Rating": "8/10"}]
+   
+    {
+        "name": "Casablanca",
+        "year": 1942,
+        "rating": "7/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Annie Hall",
+        "year": 1977,
+        "rating": "5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "year": 1974,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Story Of O",
+        "year": 1975,
+        "rating": "6/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Coming to America",
+        "year": 1988,
+        "rating": "7.5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Paris Texas",
+        "year": 1984,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Color Purple",
+        "year": 1985,
+        "rating": "3/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The King of Comedy",
+        "year": 1982,
+        "rating": "9/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Seventh Continent",
+        "year": 1989,
+        "rating": "4/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "American Beauty",
+        "year": 1999,
+        "rating": "7.5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Before Sunrise",
+        "year": 1995,
+        "rating": "8.5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Chungking Express",
+        "year": 1994,
+        "rating": "6/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Dazed and Confused",
+        "year": 1993,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Eyes Wide Shut",
+        "year": 1999,
+        "rating": "7.5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Fallen Angel",
+        "year": 1995,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Forrest Gump",
+        "year": 1994,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Good Will Hunting",
+        "year": 1997,
+        "rating": "7.5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Addams Family",
+        "year": 1991,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Breakfast Club",
+        "year": 1993,
+        "rating": "5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Cable Guy",
+        "year": 1996,
+        "rating": "7.5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Legend of 1900",
+        "year": 1998,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "year": 1994,
+        "rating": "9/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Talented Mr. Ripley",
+        "year": 1999,
+        "rating": "7.5/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "The Truman Show",
+        "year": 1998,
+        "rating": "8/10",
+        "genre": [
+            "drama"
+        ]
+    },
+    {
+        "name": "Cast Away",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "In the Mood for Love",
+        "year": 2000,
+        "rating": "",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Meet the Parents",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Me, Myself & Irene",
+        "year": 2000,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Requiem for a Dream",
+        "year": 2000,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Royal Tenenbaums",
+        "year": 2001,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Daddy Day Care",
+        "year": 2003,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Lost in Translation",
+        "year": 2003,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "School of Rock",
+        "year": 2003,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Anchorman: The Legend of Ron Burgundy",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Before Sunset",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Dodgeball: A True Underdog Story",
+        "year": 2004,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Meet the Fockers",
+        "year": 2004,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Notebook",
+        "year": 2004,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Capote",
+        "year": 2005,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "C.R.A.Z.Y",
+        "year": 2005,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "LMy Father and My Son",
+        "year": 2005,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "North Country",
+        "year": 2005,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Thank You for Smoking",
+        "year": 2005,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The 40-Year-Old Virgin",
+        "year": 2005,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "year": 2006,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Little Children",
+        "year": 2006,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Little Miss Sunshine",
+        "year": 2006,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Nacho Libre",
+        "year": 2006,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Painted Veil",
+        "year": 2006,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Pursuit of Happyness",
+        "year": 2006,
+        "rating": "8.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "This Is England",
+        "year": 2006,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Atonement",
+        "year": 2007,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Death at a Funeral",
+        "year": 2007,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Into the Wild",
+        "year": 2007,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "La Vie en Rose",
+        "year": 2007,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Once",
+        "year": 2007,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Pineapple Express",
+        "year": 2008,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Slumdog Millionaire",
+        "year": 2008,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Synecdoche, New York",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Reader",
+        "year": 2008,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Stoning of Soraya M",
+        "year": 2008,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "A Prophet",
+        "year": 2009,
+        "rating": "9/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Brothers",
+        "year": 2009,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Diary of a Wimpy Kid",
+        "year": 2009,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "He's Just Not That Into You",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "World's Greatest Dad",
+        "year": 2009,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "500 Days of Summer",
+        "year": 2009,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Blue Valentine",
+        "year": 2010,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Buried",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Due Date",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Easy A",
+        "year": 2010,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Get Him to the Greek",
+        "year": 2010,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Incendies",
+        "year": 2010,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Intimacy",
+        "year": 2010,
+        "rating": "2/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Little Fockers",
+        "year": 2010,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Never Let Me Go",
+        "year": 2010,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Scott Pilgrim vs. the World",
+        "year": 2010,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "She's Out of My League",
+        "year": 2010,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "127 Hours",
+        "year": 2010,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "A Separation",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Crazy, Stupid, Love",
+        "year": 2011,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Detachment",
+        "year": 2011,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Hugo",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Jeff, Who Lives at Home",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Midnight in Paris",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Shame",
+        "year": 2011,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Human Centipede",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Ides of March",
+        "year": 2011,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Intouchables",
+        "year": 2011,
+        "rating": "9/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Water for Elephants",
+        "year": 2011,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Amour",
+        "year": 2012,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Disconnect",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Lincoln",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Moonrise Kingdom",
+        "year": 2012,
+        "rating": "8.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Rust and Bone",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Stuck in Love",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Hunt",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Lucky One",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Perks of Being a Wallflower",
+        "year": 2012,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "What the Day Owes the Night",
+        "year": 2012,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Before Midnight",
+        "year": 2013,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Begin Again",
+        "year": 2013,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Birdman",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Boyhood",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Citizenfour",
+        "year": 2014,
+        "rating": "3/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Mommy",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Nightcrawler",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Sex Tape",
+        "year": 2014,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Still Alice",
+        "year": 2014,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Fault in Our Stars",
+        "year": 2014,
+        "rating": "10/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Grand Budapest Hotel",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Imitation Game",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Normal Heart",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Other Woman",
+        "year": 2014,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Theory of Everything",
+        "year": 2014,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Wheels",
+        "year": 2014,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Whiplash",
+        "year": 2014,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "White Bird in a Blizzard",
+        "year": 2014,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "A Man Called Ove",
+        "year": 2015,
+        "rating": "3/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Daddy's Home",
+        "year": 2015,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Dope",
+        "year": 2015,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Fifty Shades of Grey",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Knock Knock",
+        "year": 2015,
+        "rating": "2/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Me, Earl and the Dying Girl",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Spotlight",
+        "year": 2015,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Big Short",
+        "year": 2015,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Diary of a Teenage Girl",
+        "year": 2015,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Wedding Ringer",
+        "year": 2015,
+        "rating": "8.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Captain Fantastic",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Demain Tout Commence",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Hail, Caesar!",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "La La Land",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Lion",
+        "year": 2016,
+        "rating": "9/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Little Sister",
+        "year": 2016,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Manchester by the Sea",
+        "year": 2016,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Me Before You",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Mr. Church",
+        "year": 2016,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Raw",
+        "year": 2016,
+        "rating": "8.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Siccin",
+        "year": 2018,
+        "rating": "3/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Sing Street",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Choice",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Handmaiden",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Invisible Guest",
+        "year": 2016,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Why Him?",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "20th Century Women",
+        "year": 2016,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Bad Genius",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Darkest Hour",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Everything, Everything",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Fifty Shades Darker",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "I, Tonya",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Ingrid Goes West",
+        "year": 2017,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Stronger",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Disaster Artist",
+        "year": 2017,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Florida Project",
+        "year": 2017,
+        "rating": "9/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Killing of a Sacred Deer",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Three Billboards Outside",
+        "year": 2017,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Wonder",
+        "year": 2017,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "A Twelve Year Night",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "BlackKklansman",
+        "year": 2018,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Blindspotting",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Bohemian Rhapsody",
+        "year": 2018,
+        "rating": "8.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Climax",
+        "year": 2018,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Crazy Rich Asians",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Eighth Grade",
+        "year": 2018,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Free Solo",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Green Book",
+        "year": 2018,
+        "rating": "9/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Love, Simon",
+        "year": 2018,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Mamma Mia! Here We Go Again",
+        "year": 2018,
+        "rating": "2/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Searching",
+        "year": 2018,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Ballad of Buster Scruggs",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Favourite",
+        "year": 2018,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Mustang",
+        "year": 2018,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "303",
+        "year": 2018,
+        "rating": "6.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "A Marriage Story",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "A Son",
+        "year": 2019,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Big Time Adolescence",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Booksmart",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Five Feet Apart",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Honey Boy",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Hustlers",
+        "year": 2019,
+        "rating": "6.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Little Women",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Once Upon a Time in Hollywood",
+        "year": 2019,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Pain and Glory",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Rocketman",
+        "year": 2019,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Sound of Metal",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Farewell",
+        "year": 2019,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Golden Glove",
+        "year": 2019,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Last Black Man in San Francisco",
+        "year": 2019,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Peanut Butter Falcon",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Waves",
+        "year": 2019,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Another Round",
+        "year": 2020,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Clouds",
+        "year": 2020,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Nomadland",
+        "year": 2020,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Father",
+        "year": 2020,
+        "rating": "8.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The King of Staten Island",
+        "year": 2020,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "365 Days",
+        "year": 2020,
+        "rating": "2/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Babylon",
+        "year": 2022,
+        "rating": "7/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Coda",
+        "year": 2021,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Licorice Pizza",
+        "year": 2021,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Pig",
+        "year": 2021,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Voyeurs",
+        "year": 2021,
+        "rating": "4/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Cha Cha Real Smooth",
+        "year": 2022,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Pearl",
+        "year": 2022,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Banshees of Inisherin",
+        "year": 2022,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Menu",
+        "year": 2022,
+        "rating": "8.5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "The Whale",
+        "year": 2022,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Triangle of Sadness",
+        "year": 2022,
+        "rating": "5/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Are You There God? It's Me, Margaret",
+        "year": 2023,
+        "rating": "6/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "Barbie",
+        "year": 2023,
+        "rating": "8/10",
+        "genre": "drama-drama"
+    },
+    {
+        "name": "No Hard Feelings",
+        "year": 2023,
+        "rating": "7.5/10",
+        "genre": "drama-drama"
+    },
+      {
+        "name": "Seven Samurai",
+        "year": 1954,
+        "rating": "7.5/10",
+        "genre": "drama-action"
+    },
+    {
+        "name": "Persona",
+        "year": 1966,
+        "rating": "3/10",
+        "genre": "drama-action"
+    },
+    {
+        "name": "A Clockwork Orange",
+        "year": 1971,
+        "rating": "6/10",
+        "genre": "drama-action"
+    },
+    {
+        "name": "Faces of Death",
+        "year": 1978,
+        "rating": "7/10",
+        "genre": "drama-action"
+    },
+    {
+        "name": "Taxi Driver",
+        "year": 1976,
+        "rating": "7/10",
+        "genre": "drama-action"
+    },
+    {
+        "name": "The Godfather Part 1",
+        "year": 1972,
+        "rating": "7/10",
+        "genre": "drama-action"
+    },
+    {
+        "name": "The Godfather Part 2",
+        "year": 1974,
+        "
+
+
+User
+"genre": ["drama", "action"]
+ChatGPT
+json
+Copy code
+[
+    {
+        "name": "Seven Samurai",
+        "year": 1954,
+        "rating": "7.5/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Persona",
+        "year": 1966,
+        "rating": "3/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "A Clockwork Orange",
+        "year": 1971,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Faces of Death",
+        "year": 1978,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Taxi Driver",
+        "year": 1976,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "The Godfather Part 1",
+        "year": 1972,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "The Godfather Part 2",
+        "year": 1974,
+        "rating": "7.5/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Blue Velvet",
+        "year": 1986,
+        "rating": "5/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Audition",
+        "year": 1999,
+        "rating": "4/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "American History X",
+        "year": 1998,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Casino",
+        "year": 1995,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Life is Beautiful",
+        "year": 1997,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Magnolia",
+        "year": 1999,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Schindler's List",
+        "year": 1993,
+        "rating": "9/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "The Silence of the Lambs",
+        "year": 1991,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    }
+]
+User
+applique all this for this liste 50s :
+Seven samurai (1954) 7.5/10
+60s :
+Persona (1966) 3/10
+70s :
+A clockwork orange (1971) 6/10
+Faces of death (1978) 7/10
+Taxi driver (1976)  7/10
+The godfather part 1 (1972) 7/10
+The godfather part 2 (1974) 7.5/10
+
+80s:
+Blue velvet (1986) 5/10
+
+90s:
+Audition (1999) 4/10
+American history x  (1998) 6/10
+Casino (1995) 6/10
+Life is beautiful (1997) 7/10
+Magnolia (1999) 7/10
+Schindler's list (1993) 9/10 8/10
+The silence of the lambs (1991)  6/10
+
+ChatGPT
+json
+Copy code
+[
+    {
+        "name": "Seven Samurai",
+        "year": 1954,
+        "rating": "7.5/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Persona",
+        "year": 1966,
+        "rating": "3/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "A Clockwork Orange",
+        "year": 1971,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Faces of Death",
+        "year": 1978,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Taxi Driver",
+        "year": 1976,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "The Godfather Part 1",
+        "year": 1972,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "The Godfather Part 2",
+        "year": 1974,
+        "rating": "7.5/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Blue Velvet",
+        "year": 1986,
+        "rating": "5/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Audition",
+        "year": 1999,
+        "rating": "4/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "American History X",
+        "year": 1998,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Casino",
+        "year": 1995,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Life is Beautiful",
+        "year": 1997,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Magnolia",
+        "year": 1999,
+        "rating": "7/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "Schindler's List",
+        "year": 1993,
+        "rating": "9/10 8/10",
+        "genre": ["drama", "action"]
+    },
+    {
+        "name": "The Silence of the Lambs",
+        "year": 1991,
+        "rating": "6/10",
+        "genre": ["drama", "action"]
+    },
+    
+
+]
