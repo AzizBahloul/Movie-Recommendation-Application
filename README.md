@@ -1,10 +1,28 @@
 Movie Ratings Dataset
+
+
 This repository contains a collection of movie ratings data in JSON format. Each JSON file corresponds to a specific year and contains information about movies released in that year along with their ratings.
 
 Contents
+
+
 1920-1999.json: Ratings data for movies released between 1920 and 1999
+
+
 2000-2014.json: Ratings data for movies released between 2000 and 2014
+
+
 2015-2022.json: Ratings data for movies released between 2015 and 2022
+
+
+
+
+
+
+
+
+
+
 Each JSON file contains an array of movie objects, where each movie object has the following attributes:
 
 Name: The title of the movie.
