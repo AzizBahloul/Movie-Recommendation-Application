@@ -910,6 +910,480 @@
     "year": 1959,
     "rating": "8.1/10",
     "genre": ["Drama"]
+  },
+    {
+    "name": "Metropolis",
+    "year": 1927,
+    "rating": "8.3/10",
+    "genre": ["Drama", "Sci-Fi"]
+  },
+  {
+    "name": "The Jazz Singer",
+    "year": 1927,
+    "rating": "6.6/10",
+    "genre": ["Drama", "Music"]
+  },
+  {
+    "name": "Napoléon",
+    "year": 1927,
+    "rating": "8.2/10",
+    "genre": ["Biography", "Drama", "History"]
+  },
+  {
+    "name": "The Circus",
+    "year": 1928,
+    "rating": "8.1/10",
+    "genre": ["Comedy", "Romance"]
+  },
+  {
+    "name": "Steamboat Bill, Jr.",
+    "year": 1928,
+    "rating": "7.9/10",
+    "genre": ["Action", "Comedy", "Romance"]
+  },
+  {
+    "name": "Pandora's Box",
+    "year": 1929,
+    "rating": "8.1/10",
+    "genre": ["Crime", "Drama"]
+  },
+  {
+    "name": "The Blue Angel",
+    "year": 1930,
+    "rating": "7.8/10",
+    "genre": ["Drama"]
+  },
+  {
+    "name": "All Quiet on the Western Front",
+    "year": 1930,
+    "rating": "8.1/10",
+    "genre": ["Drama", "War"]
+  },
+  {
+    "name": "Morocco",
+    "year": 1930,
+    "rating": "7.2/10",
+    "genre": ["Drama", "Romance"]
+  },
+  {
+    "name": "Frankenstein",
+    "year": 1931,
+    "rating": "7.9/10",
+    "genre": ["Drama", "Horror", "Sci-Fi"]
+  },
+  {
+    "name": "Dracula",
+    "year": 1931,
+    "rating": "7.4/10",
+    "genre": ["Fantasy", "Horror"]
+  },
+  {
+    "name": "Little Women",
+    "year": 1933,
+    "rating": "7.4/10",
+    "genre": ["Drama", "Family", "Romance"]
+  },
+  {
+    "name": "The Invisible Man",
+    "year": 1933,
+    "rating": "7.7/10",
+    "genre": ["Horror", "Sci-Fi"]
+  },
+  {
+    "name": "Bringing Up Baby",
+    "year": 1938,
+    "rating": "7.9/10",
+    "genre": ["Comedy", "Romance"]
+  },
+  {
+    "name": "The Adventures of Robin Hood",
+    "year": 1938,
+    "rating": "7.9/10",
+    "genre": ["Action", "Adventure", "Romance"]
+  },
+  {
+    "name": "Gone with the Wind",
+    "year": 1939,
+    "rating": "8.2/10",
+    "genre": ["Drama", "History", "Romance"]
+  },
+  {
+    "name": "The Wizard of Oz",
+    "year": 1939,
+    "rating": "8.1/10",
+    "genre": ["Adventure", "Family", "Fantasy"]
+  },
+  {
+    "name": "Mr. Smith Goes to Washington",
+    "year": 1939,
+    "rating": "7.9/10",
+    "genre": ["Drama"]
+  },
+  {
+    "name": "The Maltese Falcon",
+    "year": 1941,
+    "rating": "8.1/10",
+    "genre": ["Film-Noir", "Mystery"]
+  },
+  {
+    "name": "Notorious",
+    "year": 1946,
+    "rating": "7.9/10",
+    "genre": ["Drama", "Film-Noir", "Romance"]
+  },
+  {
+    "name": "The Best Years of Our Lives",
+    "year": 1946,
+    "rating": "8.1/10",
+    "genre": ["Drama", "Romance", "War"]
+  },
+  {
+    "name": "The Treasure of the Sierra Madre",
+    "year": 1948,
+    "rating": "8.3/10",
+    "genre": ["Adventure", "Drama", "Western"]
+  },
+  {
+    "name": "Key Largo",
+    "year": 1948,
+    "rating": "7.9/10",
+    "genre": ["Crime", "Drama", "Film-Noir"]
+  },
+  {
+    "name": "Rope",
+    "year": 1948,
+    "rating": "8.0/10",
+    "genre": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "name": "Red River",
+    "year": 1948,
+    "rating": "7.9/10",
+    "genre": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "name": "Adam's Rib",
+    "year": 1949,
+    "rating": "7.6/10",
+    "genre": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "name": "All About Eve",
+    "year": 1950,
+    "rating": "8.2/10",
+    "genre": ["Drama"]
+  },
+  {
+    "name": "Harvey",
+    "year": 1950,
+    "rating": "7.9/10",
+    "genre": ["Comedy", "Drama", "Fantasy"]
+  },
+  {
+    "name": "Father of the Bride",
+    "year": 1950,
+    "rating": "7.2/10",
+    "genre": ["Comedy", "Drama", "Family"]
+  },
+  {
+    "name": "Sunset Boulevard",
+    "year": 1950,
+    "rating": "8.4/10",
+    "genre": ["Drama", "Film-Noir"]
+  },
+  {
+    "name": "Singin' in the Rain",
+    "year": 1952,
+    "rating": "8.3/10",
+    "genre": ["Comedy", "Musical", "Romance"]
+  },
+  {
+    "name": "High Noon",
+    "year": 1952,
+    "rating": "7.5/10",
+    "genre": ["Drama", "Thriller", "Western"]
+  },
+  {
+    "name": "The African Queen",
+    "year": 1951,
+    "rating": "7.8/10",
+    "genre": ["Adventure", "Drama", "Romance"]
+  },
+  {
+    "name": "An American in Paris",
+    "year": 1951,
+    "rating": "7.3/10",
+    "genre": ["Musical", "Romance"]
+  },
+  {
+    "name": "The Quiet Man",
+    "year": 1952,
+    "rating": "7.9/10",
+    "genre": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "name": "Roman Holiday",
+    "year": 1953,
+    "rating": "8.0/10",
+    "genre": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "name": "From Here to Eternity",
+    "year": 1953,
+    "rating": "7.7/10",
+    "genre": ["Drama", "Romance", "War"]
+  },
+  {
+    "name": "Gentlemen Prefer Blondes",
+    "year": 1953,
+    "rating": "7.2/10",
+    "genre": ["Comedy", "Musical", "Romance"]
+  },
+  {
+    "name": "Rear Window",
+    "year": 1954,
+    "rating": "8.5/10",
+    "genre": ["Mystery", "Thriller"]
+  },
+  {
+    "name": "On the Waterfront",
+    "year": 1954,
+    "rating": "8.2/10",
+    "genre": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "name": "Rebel Without a Cause",
+    "year": 1955,
+    "rating": "7.8/10",
+    "genre": ["Drama"]
+  },
+  {
+    "name": "Guys and Dolls",
+    "year": 1955,
+    "rating": "6.9/10",
+    "genre": ["Comedy", "Musical", "Romance"]
+  },
+  {
+    "name": "The Searchers",
+    "year": 1956,
+    "rating": "8.0/10",
+    "genre": ["Adventure", "Drama", "Western"]
+  },
+  {
+    "name": "Some Like It Hot",
+    "year": 1959,
+    "rating": "8.2/10",
+    "genre": ["Comedy", "Music", "Romance"]
+  },
+  {
+    "name": "North by Northwest",
+    "year": 1959,
+    "rating": "8.3/10",
+    "genre": ["Adventure", "Mystery", "Thriller"]
+  },
+  {
+    "name": "Sleeping Beauty",
+    "year": 1959,
+    "rating": "7.3/10",
+    "genre": ["Animation", "Family", "Fantasy"]
+  },
+  {
+    "name": "Ben-Hur",
+    "year": 1959,
+    "rating": "8.1/10",
+    "genre": ["Adventure", "Drama", "History"]
+  },
+  {
+    "name": "Psycho",
+    "year": 1960,
+    "rating": "8.6/10",
+    "genre": ["Horror", "Mystery", "Thriller"]
+  },
+  {
+    "name": "West Side Story",
+    "year": 1961,
+    "rating": "7.6/10",
+    "genre": ["Crime", "Drama", "Musical"]
+  },
+  {
+    "name": "Lawrence of Arabia",
+    "year": 1962,
+    "rating": "8.4/10",
+    "genre": ["Adventure", "Biography", "Drama"]
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "year": 1962,
+    "rating": "8.3/10",
+    "genre": ["Crime", "Drama"]
+  },
+  {
+    "name": "The Longest Day",
+    "year": 1962,
+    "rating": "7.8/10",
+    "genre": ["Action", "Drama", "History"]
+  },
+  {
+    "name": "The Birds",
+    "year": 1963,
+    "rating": "7.7/10",
+    "genre": ["Horror", "Mystery"]
+  },
+  {
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "rating": "8.5/10",
+    "genre": ["Comedy"]
+  },
+  {
+    "name": "Mary Poppins",
+    "year": 1964,
+    "rating": "7.8/10",
+    "genre": ["Comedy", "Family", "Fantasy"]
+  },
+  {
+    "name": "My Fair Lady",
+    "year": 1964,
+    "rating": "7.9/10",
+    "genre": ["Drama", "Family", "Musical"]
+  },
+  {
+    "name": "Goldfinger",
+    "year": 1964,
+    "rating": "7.3/10",
+    "genre": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "name": "The Sound of Music",
+    "year": 1965,
+    "rating": "8.0/10",
+    "genre": ["Biography", "Drama", "Family"]
+  },
+  {
+    "name": "Doctor Zhivago",
+    "year": 1965,
+    "rating": "8.0/10",
+    "genre": ["Drama", "Romance", "War"]
+  },
+  {
+    "name": "Who's Afraid of Virginia Woolf?",
+    "year": 1966,
+    "rating": "8.0/10",
+    "genre": ["Drama"]
+  },
+  {
+    "name": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "rating": "8.9/10",
+    "genre": ["Western"]
+  },
+  {
+    "name": "Bonnie and Clyde",
+    "year": 1967,
+    "rating": "7.9/10",
+    "genre": ["Action", "Biography", "Crime"]
+  },
+  {
+    "name": "The Jungle Book",
+    "year": 1967,
+    "rating": "7.6/10",
+    "genre": ["Animation", "Adventure", "Family"]
+  },
+  {
+    "name": "Planet of the Apes",
+    "year": 1968,
+    "rating": "8.0/10",
+    "genre": ["Adventure", "Sci-Fi"]
+  },
+  {
+    "name": "Once Upon a Time in the West",
+    "year": 1968,
+    "rating": "8.5/10",
+    "genre": ["Western"]
+  },
+  {
+    "name": "Butch Cassidy and the Sundance Kid",
+    "year": 1969,
+    "rating": "8.1/10",
+    "genre": ["Biography", "Crime", "Drama"]
+  },
+  {
+    "name": "Midnight Cowboy",
+    "year": 1969,
+    "rating": "7.6/10",
+    "genre": ["Drama"]
+  },
+  {
+    "name": "Easy Rider",
+    "year": 1969,
+    "rating": "7.3/10",
+    "genre": ["Adventure", "Drama"]
+  },
+  {
+    "name": "True Grit",
+    "year": 1969,
+    "rating": "7.5/10",
+    "genre": ["Adventure", "Drama", "Western"]
+  },
+  {
+    "name": "Love Story",
+    "year": 1970,
+    "rating": "6.9/10",
+    "genre": ["Drama", "Romance"]
+  },
+  {
+    "name": "Five Easy Pieces",
+    "year": 1970,
+    "rating": "7.4/10",
+    "genre": ["Drama"]
+  },
+  {
+    "name": "Airport",
+    "year": 1970,
+    "rating": "6.6/10",
+    "genre": ["Action", "Drama", "Thriller"]
+  },
+  {
+    "name": "Patton",
+    "year": 1970,
+    "rating": "8.0/10",
+    "genre": ["Biography", "Drama", "War"]
+  },
+  {
+    "name": "Kelly's Heroes",
+    "year": 1970,
+    "rating": "7.1/10",
+    "genre": ["Adventure", "Comedy", "War"]
+  },
+  {
+    "name": "A Clockwork Orange",
+    "year": 1971,
+    "rating": "8.4/10",
+    "genre": ["Crime", "Drama", "Sci-Fi"]
+  },
+  {
+    "name": "The French Connection",
+    "year": 1971,
+    "rating": "7.8/10",
+    "genre": ["Action", "Crime", "Drama"]
+  },
+  {
+    "name": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "rating": "7.8/10",
+    "genre": ["Family", "Fantasy", "Musical"]
+  },
+  {
+    "name": "Fiddler on the Roof",
+    "year": 1971,
+    "rating": "8.0/10",
+    "genre": ["Drama", "Family", "Musical"]
+  },
+  {
+    "name": "Deliverance",
+    "year": 1972,
+    "rating": "7.7/10",
+    "genre": ["Adventure", "Drama", "Thriller"]
   }
     
 ]
