@@ -1,5 +1,4 @@
-# Create README.md
-cat <<EOF > README.md
+
 # Movie Recommendation System
 
 ## Overview
@@ -21,30 +20,29 @@ To run this project, you need to have the following Python packages installed. Y
 
 1. Clone the repository:
 
-   \`\`\`bash
+  
    git clone https://github.com/AzizBahloul/movie-recommendation.git
-   \`\`\`
+ 
 
 2. Navigate to the project directory:
 
-   \`\`\`bash
+
    cd movie-recommendation
-   \`\`\`
+
 
 3. Install the required packages:
 
-   \`\`\`bash
+
    pip install -r requirements.txt
-   \`\`\`
 
 ## Usage
 
 1. Place your dataset (\`movies.json\`) in the project directory.
 2. Run the main script to train the model and make predictions:
 
-   \`\`\`bash
+
    python main.py
-   \`\`\`
+
 
 ## Files
 
@@ -62,7 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 EOF
 
 # Create requirements.txt
-cat <<EOF > requirements.txt
 numpy
 pandas
 scikit-learn
