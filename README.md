@@ -1,61 +1,70 @@
-Movie Ratings Dataset
+# Create README.md
+cat <<EOF > README.md
+# Movie Recommendation System
 
+## Overview
 
-This repository contains a collection of movie ratings data in JSON format. Each JSON file corresponds to a specific year and contains information about movies released in that year along with their ratings.
+This project is a movie recommendation system that uses machine learning to predict whether a user will like a movie based on various features such as movie name, release year, and rating. The system employs different machine learning models and techniques to provide recommendations.
 
-Contents
+## Features
 
+- Data preprocessing: Cleans and prepares data for model training.
+- Model training: Trains models using Random Forest and other classifiers.
+- Model evaluation: Evaluates model performance with accuracy and classification reports.
+- Grid search: Optimizes model hyperparameters to improve performance.
 
-1920-1999.json: Ratings data for movies released between 1920 and 1999
+## Requirements
 
+To run this project, you need to have the following Python packages installed. You can install them using \`pip install -r requirements.txt\`.
 
-2000-2014.json: Ratings data for movies released between 2000 and 2014
+## Installation
 
+1. Clone the repository:
 
-2015-2022.json: Ratings data for movies released between 2015 and 2022
+   \`\`\`bash
+   git clone https://github.com/AzizBahloul/movie-recommendation.git
+   \`\`\`
 
+2. Navigate to the project directory:
 
+   \`\`\`bash
+   cd movie-recommendation
+   \`\`\`
 
+3. Install the required packages:
 
+   \`\`\`bash
+   pip install -r requirements.txt
+   \`\`\`
 
+## Usage
 
+1. Place your dataset (\`movies.json\`) in the project directory.
+2. Run the main script to train the model and make predictions:
 
+   \`\`\`bash
+   python main.py
+   \`\`\`
 
+## Files
 
+- \`main.py\`: The main script to train and evaluate the model.
+- \`movies.json\`: Sample dataset for training and testing the model.
+- \`requirements.txt\`: List of Python packages required for the project.
 
-Each JSON file contains an array of movie objects, where each movie object has the following attributes:
+## Contributing
 
+Feel free to fork the repository, make changes, and submit pull requests. For any issues or feature requests, please open an issue.
 
+## License
 
-Name: The title of the movie.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+EOF
 
-
-Year: The year the movie was released.
-
-
-Rating: The rating given to the movie, typically on a scale of 1 to 10.
-
-
-
-Genre: The genre(s) of the movie.
-
-
-![image](https://github.com/AzizBahloul/Movies_databases-/assets/74460680/6e7c1a5a-1b99-4026-9ddb-e5807179c229)
-
-
-
-
-
-
-
-
-
-
-Usage
-Feel free to use this dataset for your projects, analysis, or any other purposes. If you find it helpful, consider giving this repository a star!
-
-Contributing
-If you have additional movie ratings data or would like to suggest improvements, please feel free to open an issue or submit a pull request.
-
-License
-This dataset is provided under the MIT License.
+# Create requirements.txt
+cat <<EOF > requirements.txt
+numpy
+pandas
+scikit-learn
+joblib
+EOF
