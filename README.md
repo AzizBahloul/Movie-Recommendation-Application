@@ -51,9 +51,15 @@ pip install -r requirements.txt
 Follow this order to execute the files in your project:
 
 1)createDB.py
+
 2)insert_fake_data.py
+
 3)model_retrain.py
+
 4)GUI.py
+
+
+
 gui.py: Contains the PyQt5 GUI code.
 
 
