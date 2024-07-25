@@ -1,64 +1,28 @@
-
-# Movie Recommendation System
+# Movie App
 
 ## Overview
 
-This project is a movie recommendation system that uses machine learning to predict whether a user will like a movie based on various features such as movie name, release year, and rating. The system employs different machine learning models and techniques to provide recommendations.
+The Movie App is a Python application with a graphical user interface (GUI) built using PyQt5. It allows users to:
+- Add movies to a database with details such as name, year, rating, genres, and description.
+- Predict ratings for movies based on user input.
+- Automatically retrain machine learning models when new movies are added.
 
 ## Features
 
-- Data preprocessing: Cleans and prepares data for model training.
-- Model training: Trains models using Random Forest and other classifiers.
-- Model evaluation: Evaluates model performance with accuracy and classification reports.
-- Grid search: Optimizes model hyperparameters to improve performance.
+- **Add Movie**: Enter movie details, including name, year, rating, genres, and description. The data is stored in an SQLite database.
+- **Predict Rating**: Predict the rating of a movie based on its name, year, and genres using a machine learning model.
+- **Dark Blue and Purple Theme**: A modern and stylish GUI with a dark blue and purple theme.
+- **Animations**: Smooth fade-in animation for a polished user experience.
 
 ## Requirements
 
-To run this project, you need to have the following Python packages installed. You can install them using \`pip install -r requirements.txt\`.
+Ensure you have Python 3.7 or later installed. You can install the required packages using the `requirements.txt` file.
 
-## Installation
+### `requirements.txt`
 
-1. Clone the repository:
-
-  
-   git clone https://github.com/AzizBahloul/movie-recommendation.git
- 
-
-2. Navigate to the project directory:
-
-
-   cd movie-recommendation
-
-
-3. Install the required packages:
-
-
-   pip install -r requirements.txt
-
-## Usage
-
-1. Place your dataset (\`movies.json\`) in the project directory.
-2. Run the main script to train the model and make predictions:
-
-
-   python main.py
-
-
-## Files
-
-- \`main.py\`: The main script to train and evaluate the model.
-- \`movies.json\`: Sample dataset for training and testing the model.
-- \`requirements.txt\`: List of Python packages required for the project.
-
-## Contributing
-
-Feel free to fork the repository, make changes, and submit pull requests. For any issues or feature requests, please open an issue.
-
-
-
-# Create requirements.txt
-numpy
-pandas
-scikit-learn
-joblib
-EOF
+```plaintext
+PyQt5==5.15.9
+pandas==2.0.3
+scikit-learn==1.2.2
+joblib==1.3.2
+numpy==1.24.3
