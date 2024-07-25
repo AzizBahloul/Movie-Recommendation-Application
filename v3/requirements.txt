@@ -1,5 +1,0 @@
-PyQt5
-scikit-learn
-joblib
-numpy
-pandas
