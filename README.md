@@ -1,28 +1,59 @@
-# Movie App
+# Movie Recommendation Application
 
-## Overview
+Welcome to the Movie Recommendation Application! This project allows users to enter movies they've watched and predict if they will like new movies based on AI models.
 
-The Movie App is a Python application with a graphical user interface (GUI) built using PyQt5. It allows users to:
-- Add movies to a database with details such as name, year, rating, genres, and description.
-- Predict ratings for movies based on user input.
-- Automatically retrain machine learning models when new movies are added.
+## Table of Contents
 
-## Features
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+    - [Clone the Repository](#clone-the-repository)
+    - [Set Up the Virtual Environment](#set-up-the-virtual-environment)
+    - [Activate the Virtual Environment](#activate-the-virtual-environment)
+    - [Install the Dependencies](#install-the-dependencies)
+3. [Usage](#usage)
+    - [Run the Application](#run-the-application)
+    - [Enter Movies](#enter-movies)
+    - [Predict New Movies](#predict-new-movies)
+4. [File Execution Order](#file-execution-order)
+5. [Contributing](#contributing)
+6. [License](#license)
 
-- **Add Movie**: Enter movie details, including name, year, rating, genres, and description. The data is stored in an SQLite database.
-- **Predict Rating**: Predict the rating of a movie based on its name, year, and genres using a machine learning model.
-- **Dark Blue and Purple Theme**: A modern and stylish GUI with a dark blue and purple theme.
-- **Animations**: Smooth fade-in animation for a polished user experience.
+## Introduction
 
-## Requirements
+This project is a Python application designed to recommend movies based on user preferences and ratings. It uses various AI models to make predictions about whether a user will like a new movie.
 
-Ensure you have Python 3.7 or later installed. You can install the required packages using the `requirements.txt` file.
+## Installation
 
-### `requirements.txt`
+Follow these steps to set up the project on your local machine:
 
-```plaintext
-PyQt5==5.15.9
-pandas==2.0.3
-scikit-learn==1.2.2
-joblib==1.3.2
-numpy==1.24.3
+### Clone the Repository
+
+First, clone the repository from GitHub:
+
+```bash
+git clone https://github.com/AzizBahloul/movie-recommendation.git
+cd movie-recommendation
+```
+For creating a venv, you can use the following command:
+```bash
+python3 -m venv venv
+```
+Then, you can activate the venv using the following command:
+```bash
+source venv/bin/activate
+```
+
+After activating the venv, you can install the required packages using the following command:
+```bash
+pip install -r requirements.txt
+```
+### File Execution Order (for v3 and v2)
+Follow this order to execute the files in your project:
+
+1)createDB.py
+2)insert_fake_data.py
+3)model_retrain.py
+4)GUI.py
+gui.py: Contains the PyQt5 GUI code.
+
+
